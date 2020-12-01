@@ -5,7 +5,7 @@ $address = (isset($_POST['address'])) ? $_POST['address'] : '';
 $click_id = (isset($_POST['click_id']) && trim($_POST['click_id']) != '') ? $_POST['click_id'] : '';
 $fb_pixel_id = (isset($_GET['fb_pixel_id'])) ? $_GET['fb_pixel_id'] : '';
 
-$domainDefault = ''; // for Pubs download
+$domainDefault = 'http://devorip.com/'; // for Pubs download
 
 if ($name == '' || $phone == '') {
     errors('Bạn vui lòng nhập đầy đủ thông tin!');
@@ -17,9 +17,37 @@ $data['phone'] = substr($phone, 0, 20); //limit phone 20
 $data['address'] = $address;
 $data['click_id'] = $click_id;
 $data['fb_pixel_id'] = $fb_pixel_id;
+
 function call_post($url = '', $data = [])
 {
-  
+    
+$servername = "localhost";
+$username = "chung";
+$password = "password";
+$dbname = "tengsu2";
+
+// Create connection
+$conn = new mysqli($servername, $username, $password, $dbname);
+// Check connection
+if ($conn->connect_error) {
+  die("Connection failed: " . $conn->connect_error);
+}
+$conn -> set_charset("utf8");
+$sql = "INSERT INTO MyGuests(name, phone, address, click_id, fb_pixel_id)
+VALUES (\"".$data['name']."\", \"".$data['phone']."\", \"".$data['address']."\", \"".$data['click_id']."\", \"".$data['fb_pixel_id']."\")";
+
+if ($conn->query($sql) === TRUE) {
+  echo "New record created successfully";
+  header("Location: thankyou.php?fb_pixel_id=ss");
+die();
+} else {
+  echo "Error: " . $sql . "<br>" . $conn->error;
+  header("Location: thankyou.php?fb_pixel_id=".$conn->error);
+die();
+}
+
+$conn->close();
+
     $timeout = 10000;
     $http_header = [
         "content-type: application/json",
