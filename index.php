@@ -96,7 +96,7 @@
           </div>
       </div>
       <div class="btn-scoll flex-fill" style="flex-direction: column;">
-        <h5>Hot Line: 08.3333.0076</h5>
+        <h5>Hotline: 08.3333.0076</h5>
         <button type="submit" class="btn btn-block  animated infinite pulse" data-scroll="#box-form">Đặt hàng ngay</button>
       </div>
     </div>
