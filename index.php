@@ -54,7 +54,6 @@
     };
     ladiViewport();
   </script>
-  <script async="async" tahc="5hXfzBwl4vPkBMo" language="JavaScript" src="//zigzag.vn/js/check.js" type="text/javascript"></script>
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->
