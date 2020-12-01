@@ -6,6 +6,7 @@
     <meta content="width=device-width,minimum-scale=1,initial-scale=1" name="viewport">
     <meta content="index,follow,all" name="robots">
     <meta content="vi" http-equiv="content-language">
+    <link rel = "icon" href="assets/image/logo.jpg" type = "image/x-icon"> 
 
     <title>Thank you</title>
 
