@@ -1,851 +1,222 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <title>Viên ngậm tengsu</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="google-site-verification" content="6211fusT9UOuL_D3-anTTtM9JosCObdM3hZs8HM4rFg" />
-  <link rel="shortcut icon" href="assets/image/logo.ico" type = "image/x-icon"/>
-  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&display=swap&subset=vietnamese" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap&subset=vietnamese" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700&display=swap&subset=vietnamese" rel="stylesheet">
-  <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
-  <link rel="stylesheet" type="text/css" href="./assets/css/flipclock.css">
-  <link rel="stylesheet" type="text/css" href="./assets/css/style.css?ver=2.5">
-  <script async="async" tahc="5hXfzBwl4vPkBMo" language="JavaScript" src="//zigzag.vn/js/check.js" type="text/javascript"></script>
-  <script src="./assets/js/jquery.min.js"></script>
-  <script type="text/javascript" src="./assets/js/flipclock.js"></script>
-  <script type="text/javascript" src="./assets/js/wow.min.js"></script>
-   </script>
-     <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-N7WXPN8');</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Viên Ngậm Tengsu Chính Hãng Công Ty</title>
+    <meta http-equiv="Cache-Control" content="no-cache">
+    <meta http-equiv="Expires" content="-1">
+    <meta name="description" content="Viên Ngậm Tengsu Chính Hãng Công Ty">
+    <meta id="viewport" name="viewport" content="width=960, user-scalable=no">
+    <link rel="stylesheet" href="./assets/style.css?v=3.6" as="style">
+    <script type="text/javascript" src="./assets/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="./assets/dr-dtime.js"></script>
+    <script type="text/javascript">function ladiViewport(){var e="user-scalable=no";(window.outerWidth>0?window.outerWidth:screen.width)<580&&(e+=", width=414");var t=document.querySelector('meta[name="viewport"]');null==t&&((t=document.createElement("meta")).name="viewport",document.head.prepend(t)),t.content=e}ladiViewport();</script>
+
+    <!-- Google Tag Manager -->
+    <script>!function(e,t,a,n,g){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,r.src="https://www.googletagmanager.com/gtm.js?id=GTM-N7WXPN8",m.parentNode.insertBefore(r,m)}(window,document,"script","dataLayer");</script>
     <!-- End Google Tag Manager -->
-
-    <!-- Hotjar Tracking Code for https://eway.vn -->
-    <script>
-        (function(h,o,t,j,a,r){
-            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-            h._hjSettings={hjid:1029235,hjsv:6};
-            a=o.getElementsByTagName('head')[0];
-            r=o.createElement('script');r.async=1;
-            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-            a.appendChild(r);
-        })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
-    </script>
-
-    <script type="text/javascript">
-    function ladiViewport() {
-      var width = (window.outerWidth > 0) ? window.outerWidth : screen.width;
-      var content = "";
-      if (width < 420) {
-        content = "user-scalable=no , width=414";
-      }else{
-        content = 'width=device-width, initial-scale=1'
-      }
-      var meta = document.querySelector('meta[name="viewport"]');
-      if (meta == undefined) {
-        meta = document.createElement('meta');
-        meta.name = 'viewport';
-        document.head.prepend(meta);
-      }
-      meta.content = content;
-    };
-    ladiViewport();
-  </script>
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N7WXPN8"
-                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N7WXPN8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-<div class="ladi-tengsu">
-  <div class="sec-head">
-    <div class="d-flex align-items-center">
-      <div class="box-sale ">
-        <h5>ƯU ĐÃI ĐẶC BIỆT: MUA 2 TẶNG 1</h5>
-        <div class="price">
-          <p><sub>Chỉ còn </sub><span>790.000VNĐ</span>/HỘP</p>
-        </div>
-      </div>
-      <div class="box-clock flex-fill " id="timer">
-        <h6>ƯU ĐÃI ĐẶC BIỆT CÒN</h6>
-          <div class="time days">
-             <div class="day">
-              <span>0</span>
-              <span>1</span>
-              <sub>Ngày</sub>
-             </div>
-          </div>
-          <div class="time hours">
-             <div class="hour">
-              <span>0</span>
-              <span>1</span>
-              <sub>Giờ</sub>
-             </div>
-          </div>
-          <div class="time mins">
-             <div class="min">
-              <span>0</span>
-              <span>1</span>
-              <sub>phút</sub>
-             </div>
-          </div>
-      </div>
-      <div class="btn-scoll flex-fill" style="flex-direction: column;">
-        <h5>Hotline: 08.3333.0076</h5>
-        <button type="submit" class="btn btn-block  animated infinite pulse" data-scroll="#box-form">Đặt hàng ngay</button>
-      </div>
-    </div>
-  </div>
-  <div class="sec1">
-    <div class="container ladi">
-      <div class="row">
-        <div class="col-lg-6 col-md-12">
-          <div class="box-show">
-            <h1>tengsu</h1>
-            <p>Viên NGẬM TĂNG CƯỜNG SINH LÝ <br> SẢN PHẨM HOÀN HẢO CHO PHÁI MẠNH</p>
-            <div class="box-slogan">
-              <img src="./assets/image/slogan.png" class="img-fluid d-block mx-auto">
-              <div class="h2">
-                <p>NÀNG CẦU XIN THA</p>
-                <p>RÊN LA LÊN ĐỈNH</p>
-              </div>
-            </div>
-            <div class="box-sp">
-              <img src="./assets/image/sp.png" class="img-fluid d-block ">
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="sec2">
-    <div class="container ladi">
-      <div class="box-show">
-        <div class="box-form">
-          <div class="box-order d-flex">
-            <div class="box-sp align-self-center">
-              <div class="wow" data-wow-duration="1s" data-wow-delay="1s"><img src="./assets/image/spe.png" class="img-fluid d-block mx-auto"></div>
-              <div class="price">
-                <p>1.580.000 VNĐ/HỘP</p>
-                <p><sub>Chỉ còn</sub><span> 790.000 VNĐ</span>/HỘP</p>
-              </div>
-            </div>
-            <div class="order">
-              <h2>đăng ký ngay <br> nhận ngàn ƯU ĐÃI</h2>
-              <form action="order.php?fb_pixel_id=<?php echo (string)htmlspecialchars(@$_GET['fb_pixel_id'], ENT_QUOTES, 'utf-8'); ?>" method="POST" >
-                <input type="hidden" name="click_id" value="<?php echo (string)@$_GET['click_id']; ?>">
-                <input type="hidden" name="adf_source" value="">
-                <input type="hidden" name="country_code" value="VN">
-                <input type="hidden" name="ip_country" value="VN">
-                <div class="form-group">
-                  <input type="text" class="form-control" placeholder="Họ tên *" name="name">
+<div class="ladi-wraper"><div id="SECTION2265" class="ladi-section"><div class="ladi-section-background"></div><div class="ladi-container"><div id="GROUP2266" class="ladi-element"><div class="ladi-group"><div id="BOX2267" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div><div id="SHAPE2268" class="ladi-element ladi-animation"><div class="ladi-shape"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1536 1896.0833" fill="rgba(39,191,41,1)"> <path d="M1280 1193q0-11-2-16-3-8-38.5-29.5T1151 1098l-53-29q-5-3-19-13t-25-15-21-5q-18 0-47 32.5t-57 65.5-44 33q-7 0-16.5-3.5T853 1157t-17-9.5-14-8.5q-99-55-170.5-126.5T525 842q-2-3-8.5-14t-9.5-17-6.5-15.5T497 779q0-13 20.5-33.5t45-38.5 45-39.5T628 631q0-10-5-21t-15-25-13-19q-3-6-15-28.5T555 492t-26.5-47.5-25-40.5-16.5-18-16-2q-48 0-101 22-46 21-80 94.5T256 631q0 16 2.5 34t5 30.5 9 33 10 29.5 12.5 33 11 30q60 164 216.5 320.5T843 1358q6 2 30 11t33 12.5 29.5 10 33 9 30.5 5 34 2.5q57 0 130.5-34t94.5-80q22-53 22-101zm256-777v960q0 119-84.5 203.5T1248 1664H288q-119 0-203.5-84.5T0 1376V416q0-119 84.5-203.5T288 128h960q119 0 203.5 84.5T1536 416z"></path> </svg></div></div>
+                    <a id="BUTTON2269" class="ladi-element scrolldown"><div class="ladi-button"><div class="ladi-button-background"></div><div id="BUTTON_TEXT2269" class="ladi-element"><p class="ladi-headline">Hotline:</p></div></div></a>
+                    <a id="BUTTON2271" class="ladi-element scrolldown"><div class="ladi-button"><div class="ladi-button-background"></div><div id="BUTTON_TEXT2271" class="ladi-element"><p class="ladi-headline">0969981231</p></div></div></a></div></div><div id="IMAGE2307" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div></div></div><div id="SECTION22" class="ladi-section"><div class="ladi-section-background"></div><div class="ladi-overlay"></div><div class="ladi-container"><div id="GROUP1557" class="ladi-element"><div class="ladi-group"><div id="BOX898" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div><div id="HEADLINE145" class="ladi-element"><h2 class="ladi-headline">Bộ phận bán hàng và giao hàng làm việc từ 8h00 đến 21h30 tất cả các ngày trong tuần.</h2></div></div></div><div id="HEADLINE86" class="ladi-element"><h2 class="ladi-headline">Trang Chủ &gt;&gt;</h2></div><div id="HEADLINE87" class="ladi-element"><h2 class="ladi-headline">Viên Ngậm Tengsu Chính Hãng Công Ty</h2></div><div id="HEADLINE88" class="ladi-element"><h2 class="ladi-headline">Mã sản phẩm: NBN122836</h2></div><div id="HEADLINE107" class="ladi-element"><h2 class="ladi-headline">Kiểm Tra Và Thanh Toán Khi Nhận Hàng</h2></div><div id="IMAGE123" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div><div id="HEADLINE134" class="ladi-element"><h2 class="ladi-headline">Đặt Mua Viên Ngậm Tengsu Chính Hãng</h2></div><div id="LIST_PARAGRAPH893" class="ladi-element"><div class="ladi-list-paragraph"><ul> <li style="color: rgb(56, 56, 56);">Cam kết sản phẩm chính hãng</li><li style="color: rgb(56, 56, 56);">Hoàn tiền nếu phát hiện hàng giả</li><li style="color: rgb(56, 56, 56);">Miễn phí vận chuyển trên toàn quốc</li><li style="color: rgb(56, 56, 56);">Kiểm tra và thanh toán khi nhận hàng</li> </ul></div></div>
+            <a id="BUTTON1018" class="ladi-element scrolldown"><div class="ladi-button"><div class="ladi-button-background"></div><div id="BUTTON_TEXT1018" class="ladi-element"><p class="ladi-headline">&nbsp; Đặt Mua Ngay</p></div></div></a><div id="GROUP1558" class="ladi-element"><div class="ladi-group"><div id="BOX1034" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div><div id="HEADLINE1035" class="ladi-element"><h2 class="ladi-headline">Giảm giá cho 100 khách hàng đặt mua trong hôm nay</h2></div><div id="SHAPE1038" class="ladi-element ladi-animation"><div class="ladi-shape"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1536 1896.0833" fill="rgba(255,255,255,1)"> <path d="M928 1356V640H608v716q0 25 18 38.5t46 13.5h192q28 0 46-13.5t18-38.5zM472 512h195L541 351q-26-31-69-31-40 0-68 28t-28 68 28 68 68 28zm688-96q0-40-28-68t-68-28q-43 0-69 31L870 512h194q40 0 68-28t28-68zm376 256v320q0 14-9 23t-23 9h-96v416q0 40-28 68t-68 28H224q-40 0-68-28t-28-68v-416H32q-14 0-23-9t-9-23V672q0-14 9-23t23-9h440q-93 0-158.5-65.5T248 416t65.5-158.5T472 192q107 0 168 77l128 165 128-165q61-77 168-77 93 0 158.5 65.5T1288 416t-65.5 158.5T1064 640h440q14 0 23 9t9 23z"></path> </svg></div></div></div></div><div id="NOTIFY1392" class="ladi-element ladi-notify-transition" style="opacity: 0; top: -162px;"><div class="ladi-notify"><div class="ladi-notify-image"><img src="./assets/21765213_1865163936834598_3228874669581332346_n.jpg"></div><div class="ladi-notify-title">Võ Quang Minh</div><div class="ladi-notify-content">Đặt mua sản phẩm thành công!</div><div class="ladi-notify-time">3 phút trước</div></div></div><div id="HEADLINE1393" class="ladi-element"><h2 class="ladi-headline">*Khách hàng được kiểm tra sản phẩm trước lúc quyết định thanh toán khi nhận hàng</h2></div><div id="GALLERY1573" class="ladi-element" data-max-item="5" data-current="3" data-is-next="true" data-next-time="1591946842566"><div class="ladi-gallery ladi-gallery-bottom"><div class="ladi-gallery-view"><div class="ladi-gallery-view-arrow ladi-gallery-view-arrow-left"></div><div class="ladi-gallery-view-arrow ladi-gallery-view-arrow-right"></div><div class="ladi-gallery-view-item" data-index="0" data-lazyload="true"></div><div class="ladi-gallery-view-item" data-index="1"></div><div class="ladi-gallery-view-item" data-index="2"></div><div class="ladi-gallery-view-item selected" data-index="3"></div><div class="ladi-gallery-view-item" data-index="4"></div></div><div class="ladi-gallery-control"><div class="ladi-gallery-control-box" style="left: -161px;"><div class="ladi-gallery-control-item" data-index="0"></div><div class="ladi-gallery-control-item" data-index="1"></div><div class="ladi-gallery-control-item" data-index="2"></div><div class="ladi-gallery-control-item selected" data-index="3"></div><div class="ladi-gallery-control-item" data-index="4"></div></div><div class="ladi-gallery-control-arrow ladi-gallery-control-arrow-left"></div><div class="ladi-gallery-control-arrow ladi-gallery-control-arrow-right"></div></div></div></div><div id="IMAGE1638" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div><div id="HEADLINE1157" class="ladi-element"><h2 class="ladi-headline">Giá gốc 1<span style="text-decoration-line: line-through;">.<span style="" class="lp-strikeThrough">580.000đ</span></span>&nbsp;còn&nbsp;<span style="color: rgb(246, 38, 38);">790.000đ/hộp</span><br></h2></div><div id="IMAGE1171" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div><div id="HEADLINE1644" class="ladi-element"><h2 class="ladi-headline">Combo mua 2 tặng 1 trong hôm nay<br></h2></div><div id="SHAPE1645" class="ladi-element ladi-animation"><div class="ladi-shape"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 24 24" fill="rgba(255, 1, 1, 1.0)"> <path d="M20,14H4V8H9.08L7,10.83L8.62,12L11,8.76L12,7.4L13,8.76L15.38,12L17,10.83L14.92,8H20M20,19H4V17H20M9,4A1,1 0 0,1 10,5A1,1 0 0,1 9,6A1,1 0 0,1 8,5A1,1 0 0,1 9,4M15,4A1,1 0 0,1 16,5A1,1 0 0,1 15,6A1,1 0 0,1 14,5A1,1 0 0,1 15,4M20,6H17.82C17.93,5.69 18,5.35 18,5A3,3 0 0,0 15,2C13.95,2 13.04,2.54 12.5,3.35L12,4L11.5,3.34C10.96,2.54 10.05,2 9,2A3,3 0 0,0 6,5C6,5.35 6.07,5.69 6.18,6H4C2.89,6 2,6.89 2,8V19C2,20.11 2.89,21 4,21H20C21.11,21 22,20.11 22,19V8C22,6.89 21.11,6 20,6Z"></path> </svg></div></div><div id="GROUP2138" class="ladi-element"><div class="ladi-group"><div id="GROUP2139" class="ladi-element"><div class="ladi-group"><div id="GROUP2140" class="ladi-element"><div class="ladi-group"><div id="BOX2141" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div><div id="HEADLINE2142" class="ladi-element"><h2 class="ladi-headline">Ngày</h2></div></div></div><div id="GROUP2143" class="ladi-element"><div class="ladi-group"><div id="BOX2144" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div><div id="HEADLINE2145" class="ladi-element"><h2 class="ladi-headline">Giờ</h2></div></div></div><div id="GROUP2146" class="ladi-element"><div class="ladi-group"><div id="BOX2147" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div><div id="HEADLINE2148" class="ladi-element"><h2 class="ladi-headline">Phút</h2></div></div></div><div id="GROUP2149" class="ladi-element"><div class="ladi-group"><div id="BOX2150" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div><div id="HEADLINE2151" class="ladi-element"><h2 class="ladi-headline">Giây</h2></div></div></div></div></div>
+                    <div id="COUNTDOWN2152" class="ladi-element" data-type="countdown" data-minute="36" data-date-start="0" data-date-end="1591948124112">
+                        <div class="ladi-countdown">
+                            <div id="COUNTDOWN_ITEM2153" class="ladi-element" data-item-type="day"><div class="ladi-countdown-background"></div>
+                                <div class="ladi-countdown-text" id="md"><span>00</span></div>
+                            </div>
+                            <div id="COUNTDOWN_ITEM2154" class="ladi-element" data-item-type="hour"><div class="ladi-countdown-background"></div>
+                                <div class="ladi-countdown-text" id="mh"><span>00</span></div>
+                            </div>
+                            <div id="COUNTDOWN_ITEM2155" class="ladi-element" data-item-type="minute"><div class="ladi-countdown-background"></div>
+                                <div class="ladi-countdown-text" id="mm"><span>00</span></div>
+                            </div>
+                            <div id="COUNTDOWN_ITEM2156" class="ladi-element" data-item-type="seconds"><div class="ladi-countdown-background"></div>
+                                <div class="ladi-countdown-text" id="ms"><span>00</span></div></div>
+                        </div>
+                    </div>
+                </div></div><div id="HEADLINE2157" class="ladi-element"><h2 class="ladi-headline">Chương trình ƯU ĐÃI sẽ kết thúc sau</h2></div><div id="BOX2161" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div><div id="BOX2162" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div><div id="HEADLINE2167" class="ladi-element ladi-animation"><h2 class="ladi-headline">85 trên 100 đã được bán</h2></div><div id="BOX2336" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div><div id="HEADLINE2337" class="ladi-element ladi-animation"><h3 class="ladi-headline">Cập nhật tổng kho: SẮP HẾT HÀNG</h3></div></div></div><div id="SECTION1203" class="ladi-section"><div class="ladi-section-background"></div><div class="ladi-container"><div id="GROUP1559" class="ladi-element"><div class="ladi-group"><div id="BOX1204" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div><div id="HEADLINE1209" class="ladi-element ladi-animation"><h2 class="ladi-headline">QUÝ KHÁCH LƯU Ý</h2></div><div id="HEADLINE1206" class="ladi-element"><h2 class="ladi-headline">&nbsp;Tại <span style="font-weight: bold;">Việt Nam</span> khách hàng mua tại website <span style="font-weight: bold;">Trang Web Chính Hãng</span>&nbsp;là website&nbsp;chính thức bán sản phẩm Tengsu của công ty <span style="font-weight: 700;">CP Trí Lực Việt Nam</span>, đảm bảo<span style="font-weight: bold;">&nbsp;hàng thật, hàng đúng chất lượng</span></h2></div><div id="LINE1210" class="ladi-element ladi-animation"><div class="ladi-line"><div class="ladi-line-container"></div></div></div></div></div><div id="HEADLINE2176" class="ladi-element"><h3 class="ladi-headline"><span style="font-weight: bold;"><span style="color: rgb(255, 0, 0);">LƯU Ý:</span> </span>Giá <span style="font-weight: bold;">790.000đ/hộp</span> là giá niêm yết sau giảm của công ty <span style="font-weight: bold;">CP Trí Lực Việt Nam</span>, mọi website<span style="font-weight: bold;"> bán dưới giá 790.000đ</span> hoặc đưa ra chương trình giảm giá khác đều có thể là <span style="font-weight: bold;">hàng giả, hàng kém chất lượng</span><br></h3></div></div></div><div id="SECTION2528" class="ladi-section"><div class="ladi-section-background"></div><div class="ladi-container">
+                    <div id="HEADLINE2529" class="ladi-element"><h3 class="ladi-headline">
+                            Cầu Thủ Hồng Sơn Chia Sẻ Về Tengsu
+                </h3></div>
+            <div id="VIDEO2530" class="ladi-element">
+                <div class="ladi-video">
+                    <iframe id="VIDEO2530_player" class="iframe-video-play" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;" src="https://www.youtube.com/embed/uW0VzNQhN3c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
-                <div class="form-group">
-                  <input type="text" class="form-control" placeholder="Số điện thoại *" name="phone">
+            </div>
+            <div id="LINE2534" class="ladi-element">
+                <div class="ladi-line">
+                    <div class="ladi-line-container"></div>
                 </div>
-                <div class="form-group">
-                  <textarea class="form-control" rows="2" placeholder="Địa chỉ" name="address"></textarea>
-                </div>
-                <button type="submit" class="btn btn-block js_submit  animated infinite pulse">Đặt hàng ngay</button>
-              </form>
             </div>
-          </div>
-        </div>
-        <h2>TENGSU ĐEM ĐẾN LÀ BÍ QUYẾT "BÁCH CHIẾN BÁCH THẮNG" CỦA CÁNH MÀY RÂU NHẬT BẢN</h2>
-        <div class="row">
-          <div class="col-md-3 col-6">
-            <div class="item wow slideInUp" data-wow-duration="1s" data-wow-delay="0s">
-              <div><img src="./assets/image/v1.png" class="img-fluid d-block mx-auto"></div>
-              <p>Đẩy "cậu nhỏ" <br> lên ngay lập tức</p>
-            </div>
-          </div>
-          <div class="col-md-3 col-6">
-            <div class="item wow slideInUp" data-wow-duration="1s" data-wow-delay="0.25s">
-              <div><img src="./assets/image/v2.png" class="img-fluid d-block mx-auto"></div>
-              <p>Kéo dài thời gian quan <br> hệ gấp 3 lần hiện tại</p>
-            </div>
-          </div>
-          <div class="col-md-3 col-6">
-            <div class="item wow slideInUp" data-wow-duration="1s" data-wow-delay="0.5s">
-              <div><img src="./assets/image/v3.png" class="img-fluid d-block mx-auto"></div>
-              <p>Tăng kích thước thêm <br> 3-5cm. Đạt độ cương <br>cứng tối đa</p>
-            </div>
-          </div>
-          <div class="col-md-3 col-6">
-            <div class="item wow slideInUp" data-wow-duration="1s" data-wow-delay="1s">
-              <div><img src="./assets/image/v4.png" class="img-fluid d-block mx-auto"></div>
-              <p>Đạt đỉnh cực khoái <br> tuyệt vời</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="sec3"> 
-    <div class="container">
-      <div class="box-show">
-        <h2>những thành phần vạn năng <br> có trong viên ngậm tengsu</h2>
-        <p>Chiết xuất 100% từ tự nhiên, đặc biệt có <span>Cao quy bản</span> <br> được mệnh danh là thần dược nghìn năm dành cho nam giới</p>
-        <div class="row">
-          <div class="col-lg-6 col-sm-6">
-            <div class="box-card wow slideInUp" data-wow-duration="1s" data-wow-delay="0.5s">
-              <div> <img src="./assets/image/tp1.jpg" class="img-fluid d-block mx-auto"></div>
-              <h3>Dương dâm hoắc</h3>
-              <p>Giúp bổ thân tráng dương, tăng cương ham muốn, tăng cường miễn dịch</p>
-            </div>
-          </div>
-          <div class="col-lg-6 col-sm-6">
-            <div class="box-card wow slideInUp" data-wow-duration="1s" data-wow-delay="0.25s">
-              <div> <img src="./assets/image/tp2.jpg" class="img-fluid d-block mx-auto"></div>
-              <h3>khiếm thực nam</h3>
-              <p>Tăng cường ham muốn và cải thiện hiện tượng yếu sinh lý</p>
-            </div>
-          </div>
-          <div class="col-lg-6 col-sm-6">
-            <div class="box-card wow slideInUp" data-wow-duration="1s" data-wow-delay="0s">
-              <div> <img src="./assets/image/tp3.jpg" class="img-fluid d-block mx-auto"></div>
-              <h3>tang phiêu tiêu</h3>
-              <p>Tác dụng ích thận, cố tinh, khỏe thận dương, bổ thận âm, chuyên trị các chứng di tinh, đái dắt, liệt dương, kinh nguyệt bế, đau thắt lưng.</p>
-            </div>
-          </div>
-          <div class="col-lg-6 col-sm-6">
-            <div class="box-card wow slideInUp" data-wow-duration="1s" data-wow-delay="0.25s">
-              <div> <img src="./assets/image/tp4.jpg" class="img-fluid d-block mx-auto"></div>
-              <h3>Ba kích</h3>
-              <p>Ba kích có vị cay, hơi ngọt, công dụng trợ dương bổ thận; trị thận hư, liệt dương, di tinh, mộng tinh</p>
-            </div>
-          </div>
-          <div class="col-lg-6 col-sm-6">
-            <div class="box-card wow slideInUp" data-wow-duration="1s" data-wow-delay="0.5s">
-              <div> <img src="./assets/image/tp5.jpg" class="img-fluid d-block mx-auto"></div>
-              <h3>L-tryptophan</h3>
-              <p>Là 1 loại axit amin thiết yếu giúp tổng hợp protein và truyền dẫn tín hiệu đến hệ thần kinh trung ương hỗ trợ chức năng sinh lý hiệu quả</p>
-            </div>
-          </div>
-          <div class="col-lg-12 col-md-6 col-sm-12">
-            <div class="box-sp wow slideInUp" data-wow-duration="1s" data-wow-delay="0.5s">
+        </div></div>
+            <div id="SECTION2503" class="ladi-section"><div class="ladi-section-background"></div><div class="ladi-container"><div id="GALLERY2504" class="ladi-element" data-max-item="11" data-current="7" data-is-next="true" data-next-time="1591946841572"><div class="ladi-gallery ladi-gallery-bottom"><div class="ladi-gallery-view"><div class="ladi-gallery-view-arrow ladi-gallery-view-arrow-left"></div><div class="ladi-gallery-view-arrow ladi-gallery-view-arrow-right"></div><div class="ladi-gallery-view-item" data-index="0"></div><div class="ladi-gallery-view-item" data-index="1"></div><div class="ladi-gallery-view-item" data-index="2"></div><div class="ladi-gallery-view-item" data-index="3"></div><div class="ladi-gallery-view-item" data-index="4"></div><div class="ladi-gallery-view-item" data-index="5"></div><div class="ladi-gallery-view-item" data-index="6"></div><div class="ladi-gallery-view-item selected" data-index="7"></div><div class="ladi-gallery-view-item" data-index="8"></div><div class="ladi-gallery-view-item" data-index="9"></div><div class="ladi-gallery-view-item" data-index="10"></div></div><div class="ladi-gallery-control"><div class="ladi-gallery-control-box" style="left: -203.5px;"><div class="ladi-gallery-control-item" data-index="0"></div><div class="ladi-gallery-control-item" data-index="1"></div><div class="ladi-gallery-control-item" data-index="2"></div><div class="ladi-gallery-control-item" data-index="3"></div><div class="ladi-gallery-control-item" data-index="4"></div><div class="ladi-gallery-control-item" data-index="5"></div><div class="ladi-gallery-control-item" data-index="6"></div><div class="ladi-gallery-control-item selected" data-index="7"></div><div class="ladi-gallery-control-item" data-index="8"></div><div class="ladi-gallery-control-item" data-index="9"></div><div class="ladi-gallery-control-item" data-index="10"></div></div><div class="ladi-gallery-control-arrow ladi-gallery-control-arrow-left"></div><div class="ladi-gallery-control-arrow ladi-gallery-control-arrow-right"></div></div></div></div></div></div><div id="SECTION1802" class="ladi-section"><div class="ladi-section-background"></div><div class="ladi-container"><div id="IMAGE2308" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div><div id="HEADLINE1805" class="ladi-element"><h2 class="ladi-headline">Mô Tả Sản Phẩm</h2></div><div id="HEADLINE1820" class="ladi-element"><h3 class="ladi-headline">Hướng Dẫn Sử Dụng:&nbsp;</h3></div><div id="LIST_PARAGRAPH1823" class="ladi-element"><div class="ladi-list-paragraph"><ul><li class=""><span style="font-weight: bold;">Tên sản phẩm: </span>Viên ngậm Tengsu chính hãng</li><li class=""><span style="font-weight: bold;">Số Đăng Ký:</span> 1694/2020/ĐKSP</li><li class=""><span style="font-weight: bold;">Quy cách đóng gói:</span> Hộp 12 viên ngậm</li><li class=""><span style="font-weight: bold;">Bảo quản:</span> để ở nơi khô, thoáng, mát. Tránh ánh nắng trực tiếp chiếu vào. Để xa tầm tay trẻ nhỏ.</li><li class=""><span style="font-weight: bold;">Hạn sử dụng:</span> HSD được in trên vỏ hộp</li></ul></div></div><div id="LIST_PARAGRAPH1825" class="ladi-element"><div class="ladi-list-paragraph"><ul><li class="">Dùng 1 viên mỗi lần. 2 lần/ngày. Ngậm hoặc nhai trước khi nuốt</li><li class="">Dùng trước bữa ăn 30 phút hoặc sau bữa ăn 30 phút đến 1 giờ.</li></ul></div></div><div id="LINE1827" class="ladi-element"><div class="ladi-line"><div class="ladi-line-container"></div></div></div><div id="LINE1828" class="ladi-element"><div class="ladi-line"><div class="ladi-line-container"></div></div></div></div></div><div id="SECTION2380" class="ladi-section"><div class="ladi-section-background"></div><div class="ladi-overlay"></div><div class="ladi-container"><div id="PARAGRAPH2381" class="ladi-element"><p class="ladi-paragraph">Được chiết xuất với các thành phần tự nhiên đã được cấp phép và đạt tiêu chuẩn GMP</p></div><div id="HEADLINE2382" class="ladi-element"><h2 class="ladi-headline">TENGSU CHIẾT XUẤT TỪ THÀNH PHẦN QUÝ HIẾM</h2></div><div id="HEADLINE2386" class="ladi-element"><h3 class="ladi-headline">CAO QUY BẢN</h3></div><div id="HEADLINE2387" class="ladi-element"><h3 class="ladi-headline">TANG PHIÊU TIÊU</h3></div><div id="BOX2389" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div><div id="BOX2390" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div><div id="HEADLINE2391" class="ladi-element"><h3 class="ladi-headline">DÂM DƯƠNG HOẮC</h3></div><div id="HEADLINE2394" class="ladi-element"><h3 class="ladi-headline">KHIẾM THỤC NAM</h3></div><div id="BOX2395" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div><div id="BOX2384" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div></div></div><div id="SECTION2396" class="ladi-section"><div class="ladi-section-background"></div><div class="ladi-container"><div id="HEADLINE2397" class="ladi-element"><h3 class="ladi-headline">BÁO CHÍ NÓI VỀ VIÊN NGẬM TENGSU</h3></div><div id="LINE2398" class="ladi-element"><div class="ladi-line"><div class="ladi-line-container"></div></div></div><div id="GALLERY2399" class="ladi-element" data-max-item="2" data-current="1" data-is-next="true" data-next-time="1591946843570"><div class="ladi-gallery ladi-gallery-bottom"><div class="ladi-gallery-view"><div class="ladi-gallery-view-arrow ladi-gallery-view-arrow-left"></div><div class="ladi-gallery-view-arrow ladi-gallery-view-arrow-right"></div><div class="ladi-gallery-view-item" data-index="0"></div><div class="ladi-gallery-view-item selected" data-index="1"></div></div><div class="ladi-gallery-control"><div class="ladi-gallery-control-box" style="left: 0px;"><div class="ladi-gallery-control-item" data-index="0"></div><div class="ladi-gallery-control-item selected" data-index="1"></div></div><div class="ladi-gallery-control-arrow ladi-gallery-control-arrow-left"></div><div class="ladi-gallery-control-arrow ladi-gallery-control-arrow-right"></div></div></div></div></div></div><div id="SECTION2333" class="ladi-section"><div class="ladi-section-background"></div><div class="ladi-container"><div id="GROUP2088" class="ladi-element"><div class="ladi-group"><div id="HEADLINE1912" class="ladi-element"><h3 class="ladi-headline">ĐẶT MUA SẢN PHẨM CHÍNH HÃNG</h3></div>
+                    <a id="BUTTON1913" class="ladi-element ladi-animation scrolldown"><div class="ladi-button"><div class="ladi-button-background"></div><div id="BUTTON_TEXT1913" class="ladi-element"><p class="ladi-headline">ĐẶT MUA NGAY</p></div></div></a></div></div><div id="GROUP2124" class="ladi-element"><div class="ladi-group"><div id="HEADLINE2125" class="ladi-element"><h2 class="ladi-headline">*Giao hàng tận nhà trên toàn quốc</h2></div><div id="HEADLINE2126" class="ladi-element"><h2 class="ladi-headline">*Kiểm tra và thanh toán khi nhận hàng</h2></div><div id="HEADLINE2127" class="ladi-element"><h2 class="ladi-headline">*Bảo mật thông tin giao hàng</h2></div></div></div></div></div><div id="SECTION2523" class="ladi-section"><div class="ladi-section-background"></div><div class="ladi-container"><div id="HEADLINE2524" class="ladi-element"><h3 class="ladi-headline">SẢN PHẨM ĐÃ ĐƯỢC CẤP PHÉP<br></h3></div><div id="IMAGE2525" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div><div id="LINE2526" class="ladi-element"><div class="ladi-line"><div class="ladi-line-container"></div></div></div><div id="HEADLINE2527" class="ladi-element"><h3 class="ladi-headline">TENGSU là sản phẩm đã được cấp phép và đạt tiêu chuẩn GMP<br></h3></div></div></div><div id="SECTION1958" class="ladi-section"><div class="ladi-section-background"></div><div class="ladi-container"><div id="IMAGE1959" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div><div id="IMAGE1960" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div><div id="HEADLINE1961" class="ladi-element"><h2 class="ladi-headline">Miễn Phí Giao Hàng Tận Nhà Toàn Quốc</h2></div></div></div><div id="SECTION2014" class="ladi-section"><div class="ladi-section-background"></div><div class="ladi-container"><div id="IMAGE2314" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div><div id="GROUP2039" class="ladi-element"><div class="ladi-group"><div id="BOX2021" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div><div id="HEADLINE2022" class="ladi-element"><h2 class="ladi-headline"><span style="color: rgb(255, 255, 255);">1.580.000đ/hộp</span></h2></div><div id="HEADLINE2023" class="ladi-element"><h2 class="ladi-headline"><span style="color: rgb(255, 255, 255);">Giá gốc</span></h2></div></div></div><div id="BOX2024" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div><div id="HEADLINE2025" class="ladi-element"><h2 class="ladi-headline"><span style="color: rgb(255, 255, 255);">790.000đ/hộp</span></h2></div><div id="GROUP2026" class="ladi-element"><div class="ladi-group"><div id="FORM2027" data-config-id="5e7dea46b5e5c23a2599d30d" class="ladi-element">
+                        <form action="order.php?fb_pixel_id=<?php echo (string)htmlspecialchars(@$_GET['fb_pixel_id'], ENT_QUOTES, 'utf-8'); ?>" method="POST" role="form" class="ladi-form">
+                            <input type="hidden" name="click_id" value="<?php echo (string)@$_GET['click_id']; ?>">
+                            <input type="hidden" name="adf_source" value="">
+                            <input type="hidden" name="country_code" value="VN">
+                            <input type="hidden" name="ip_country" value="VN">
+                            
+                            <div id="FORM_ITEM2028" class="ladi-element"><div class="ladi-form-item-container"><div class="ladi-form-item-background"></div>
+                                    <div class="ladi-form-item">
+                                        <input tabindex="1" name="name" class="ladi-form-control" type="text" placeholder="Họ và tên" value="">
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="FORM_ITEM2029" class="ladi-element">
+                                <div class="ladi-form-item-container"><div class="ladi-form-item-background"></div>
+                                    <div class="ladi-form-item">
+                                        <input tabindex="1" name="address" class="ladi-form-control" type="text" placeholder="Địa chỉ nhận hàng" value="">
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="FORM_ITEM2030" class="ladi-element">
+                                <div class="ladi-form-item-container"><div class="ladi-form-item-background"></div>
+                                    <div class="ladi-form-item">
+                                        <input tabindex="1" name="phone" class="ladi-form-control" type="tel" placeholder="Số điện thoại" value=""></div>
+                                </div>
+                            </div>
+                            <div id="BUTTON2033" class="ladi-element"><div class="ladi-button"><div class="ladi-button-background"></div>
+                                    <div id="BUTTON_TEXT2033" class="ladi-element">
+                                        <button type="submit" class="ladi-headline js_submit">ĐẶT MUA NGAY</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div></div></div><div id="HEADLINE2037" class="ladi-element"><h2 class="ladi-headline"><span style="color: rgb(255, 255, 255);">Chỉ còn</span></h2></div><div id="GROUP1917" class="ladi-element"><div class="ladi-group"><div id="GROUP1918" class="ladi-element"><div class="ladi-group"><div id="GROUP1919" class="ladi-element"><div class="ladi-group"><div id="BOX1920" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div><div id="HEADLINE1921" class="ladi-element"><h2 class="ladi-headline">Ngày</h2></div></div></div><div id="GROUP1922" class="ladi-element"><div class="ladi-group"><div id="BOX1923" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div><div id="HEADLINE1924" class="ladi-element"><h2 class="ladi-headline">Giờ</h2></div></div></div><div id="GROUP1925" class="ladi-element"><div class="ladi-group"><div id="BOX1926" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div><div id="HEADLINE1927" class="ladi-element"><h2 class="ladi-headline">Phút</h2></div></div></div><div id="GROUP1928" class="ladi-element"><div class="ladi-group"><div id="BOX1929" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div><div id="HEADLINE1930" class="ladi-element"><h2 class="ladi-headline">Giây</h2></div></div></div></div></div>
+                    <div id="COUNTDOWN1931" class="ladi-element ladi-animation" data-type="countdown" data-minute="36" data-date-start="0" data-date-end="1591948124112">
+                        <div class="ladi-countdown">
+                            <div id="COUNTDOWN_ITEM1932" class="ladi-element" data-item-type="day"><div class="ladi-countdown-background"></div>
+                                <div class="ladi-countdown-text" id="md"><span>00</span></div>
+                            </div>
+                            <div id="COUNTDOWN_ITEM1933" class="ladi-element" data-item-type="hour"><div class="ladi-countdown-background"></div>
+                                <div class="ladi-countdown-text" id="mh"><span>00</span></div>
+                            </div>
+                            <div id="COUNTDOWN_ITEM1934" class="ladi-element" data-item-type="minute"><div class="ladi-countdown-background"></div>
+                                <div class="ladi-countdown-text" id="mm"><span>00</span></div>
+                            </div>
+                            <div id="COUNTDOWN_ITEM1935" class="ladi-element" data-item-type="seconds"><div class="ladi-countdown-background"></div>
+                                <div class="ladi-countdown-text" id="ms"><span>00</span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div></div><div id="HEADLINE1936" class="ladi-element"><h2 class="ladi-headline">Chương trình ƯU ĐÃI sẽ kết thúc sau</h2></div><div id="BOX1937" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div><div id="GROUP1938" class="ladi-element"><div class="ladi-group"><div id="BOX1939" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div><div id="HEADLINE1940" class="ladi-element ladi-animation"><h2 class="ladi-headline">85 trên 100 đã được bán</h2></div></div></div><div id="GROUP1941" class="ladi-element"><div class="ladi-group"><div id="BOX1942" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div><div id="SHAPE1943" class="ladi-element ladi-animation"><div class="ladi-shape"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1536 1896.0833" fill="rgba(255,255,255,1)"> <path d="M928 1356V640H608v716q0 25 18 38.5t46 13.5h192q28 0 46-13.5t18-38.5zM472 512h195L541 351q-26-31-69-31-40 0-68 28t-28 68 28 68 68 28zm688-96q0-40-28-68t-68-28q-43 0-69 31L870 512h194q40 0 68-28t28-68zm376 256v320q0 14-9 23t-23 9h-96v416q0 40-28 68t-68 28H224q-40 0-68-28t-28-68v-416H32q-14 0-23-9t-9-23V672q0-14 9-23t23-9h440q-93 0-158.5-65.5T248 416t65.5-158.5T472 192q107 0 168 77l128 165 128-165q61-77 168-77 93 0 158.5 65.5T1288 416t-65.5 158.5T1064 640h440q14 0 23 9t9 23z"></path> </svg></div></div><div id="HEADLINE1944" class="ladi-element"><h2 class="ladi-headline">Giảm giá cho 100 khách hàng đặt mua trong hôm nay</h2></div></div></div><div id="GROUP2123" class="ladi-element"><div class="ladi-group"><div id="HEADLINE2035" class="ladi-element"><h2 class="ladi-headline">*Giao hàng tận nhà trên toàn quốc</h2></div><div id="HEADLINE2036" class="ladi-element"><h2 class="ladi-headline">*Kiểm tra và thanh toán khi nhận hàng</h2></div><div id="HEADLINE2122" class="ladi-element"><h2 class="ladi-headline">*Bảo mật thông tin giao hàng</h2></div></div></div><div id="HEADLINE2177" class="ladi-element"><h3 class="ladi-headline"><span style="font-weight: bold;"><span style="color: rgb(255, 0, 0);">LƯU Ý:</span> </span>Giá <span style="font-weight: bold;">790.000đ/hộp</span> là giá niêm yết sau giảm của công ty <span style="font-weight: bold;">CP Trí Lực Việt Nam </span>&nbsp;mọi website<span style="font-weight: bold;"> bán dưới giá 790.000đ</span> hoặc đưa ra chương trình giảm giá khác đều có thể là <span style="font-weight: bold;">hàng giả, hàng kém chất lượng</span><br></h3></div><div id="IMAGE2178" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div><div id="HEADLINE2019" class="ladi-element"><h2 class="ladi-headline toform">Đặt Mua Bây Giờ Tiết Kiệm 50%</h2></div><div id="HEADLINE2274" class="ladi-element"><h2 class="ladi-headline">Combo mua 2 tặng 1 trong hôm nay<br></h2></div><div id="SHAPE2275" class="ladi-element ladi-animation"><div class="ladi-shape"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 1536 1896.0833" fill="rgba(254, 230, 1, 1.0)"> <path d="M928 1356V640H608v716q0 25 18 38.5t46 13.5h192q28 0 46-13.5t18-38.5zM472 512h195L541 351q-26-31-69-31-40 0-68 28t-28 68 28 68 68 28zm688-96q0-40-28-68t-68-28q-43 0-69 31L870 512h194q40 0 68-28t28-68zm376 256v320q0 14-9 23t-23 9h-96v416q0 40-28 68t-68 28H224q-40 0-68-28t-28-68v-416H32q-14 0-23-9t-9-23V672q0-14 9-23t23-9h440q-93 0-158.5-65.5T248 416t65.5-158.5T472 192q107 0 168 77l128 165 128-165q61-77 168-77 93 0 158.5 65.5T1288 416t-65.5 158.5T1064 640h440q14 0 23 9t9 23z"></path> </svg></div></div></div></div><div id="SECTION2369" class="ladi-section"><div class="ladi-section-background"></div><div class="ladi-container"><div id="HEADLINE2370" class="ladi-element"><h2 class="ladi-headline">CÁCH PHÂN BIỆT MUA TENGSU CHÍNH HÃNG</h2></div><div id="HEADLINE2371" class="ladi-element"><h3 class="ladi-headline">1. Ngoài hộp hàng được in tên công ty Trí Lực&nbsp;<br></h3></div><div id="IMAGE2372" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div><div id="HEADLINE2373" class="ladi-element"><h3 class="ladi-headline">2. Trong hộp hàng có giấy đăng ký công bố sản phẩm đóng dấu đỏ của công ty và tờ hướng dẫn sử dụng<br></h3></div><div id="IMAGE2374" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div><div id="IMAGE2375" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div><div id="HEADLINE2376" class="ladi-element"><h3 class="ladi-headline">3. Đầu hộp và chân hộp có tem chống hàng giả của công ty Fresh Life<br></h3></div><div id="IMAGE2377" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div><div id="IMAGE2378" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div><div id="LINE2379" class="ladi-element"><div class="ladi-line"><div class="ladi-line-container"></div></div></div></div></div><div id="SECTION2518" class="ladi-section"><div class="ladi-section-background"></div><div class="ladi-container">
+            <div id="VIDEO2519" class="ladi-element">
+                <div class="ladi-video">
+                    <iframe id="VIDEO2519_player" class="iframe-video-play" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;" src="https://www.youtube.com/embed/aPedx33oOaM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div></div><div id="HEADLINE2521" class="ladi-element"><h3 class="ladi-headline">Miu Miu Hướng Dẫn Sử Dụng Tengsu</h3></div><div id="LINE2522" class="ladi-element"><div class="ladi-line"><div class="ladi-line-container"></div></div></div></div></div><div id="SECTION2427" class="ladi-section"><div class="ladi-section-background"></div><div class="ladi-container"><div id="GROUP2428" class="ladi-element"><div class="ladi-group"><div id="BOX2429" class="ladi-element"><div class="ladi-box"></div><div class="ladi-overlay"></div></div><div id="LINE2430" class="ladi-element"><div class="ladi-line"><div class="ladi-line-container"></div></div></div><div id="HEADLINE2431" class="ladi-element"><h2 class="ladi-headline">Chúng Tôi Xin Cam Kết</h2></div></div></div><div id="LIST_PARAGRAPH2432" class="ladi-element"><div class="ladi-list-paragraph"><ul> <li style="color: rgb(56, 56, 56);" class="">Cam kết sản phẩm chính hãng</li><li style="color: rgb(56, 56, 56);" class="">Hoàn tiền nếu phát hiện hàng giả</li><li style="color: rgb(56, 56, 56);" class="">Miễn phí vận chuyển trên toàn quốc</li><li style="color: rgb(56, 56, 56);" class="">Kiểm tra thanh toán khi nhận hàng</li> </ul></div></div><div id="GROUP2433" class="ladi-element"><div class="ladi-group"><div id="HEADLINE2434" class="ladi-element"><h3 class="ladi-headline">ĐẶT MUA SẢN PHẨM CHÍNH HÃNG</h3></div>
+                    <a id="BUTTON2435" class="ladi-element ladi-animation scrolldown"><div class="ladi-button"><div class="ladi-button-background"></div><div id="BUTTON_TEXT2435" class="ladi-element"><p class="ladi-headline">ĐẶT MUA NGAY</p></div></div></a></div></div><div id="IMAGE2437" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div></div></div><div id="SECTION2457" class="ladi-section"><div class="ladi-section-background"></div><div class="ladi-container"><div id="GROUP2458" class="ladi-element"><div class="ladi-group"><div id="IMAGE2459" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div><div id="HEADLINE2460" class="ladi-element"><h3 class="ladi-headline">Mai Hà</h3></div><div id="PARAGRAPH2461" class="ladi-element"><p class="ladi-paragraph">Đã đặt hàng tại đây cho ông xã dùng, công nhận sản phẩm dùng rất hiệu quả. Giao hàng nhanh và bọc kín đáo, đánh giá là 10 điểm.</p></div><div id="HEADLINE2462" class="ladi-element"><h3 class="ladi-headline"><script type="text/javascript">dtime_nums(-1, true)</script></h3></div><div id="LINE2463" class="ladi-element"><div class="ladi-line"><div class="ladi-line-container"></div></div></div></div></div><div id="LINE2464" class="ladi-element"><div class="ladi-line"><div class="ladi-line-container"></div></div></div><div id="HEADLINE2465" class="ladi-element"><h3 class="ladi-headline">PHẦN BÌNH LUẬN</h3></div><div id="GROUP2466" class="ladi-element"><div class="ladi-group"><div id="IMAGE2467" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div><div id="HEADLINE2468" class="ladi-element"><h3 class="ladi-headline">Thu Trang</h3></div><div id="PARAGRAPH2469" class="ladi-element"><p class="ladi-paragraph">Sản phẩm này hiệu quả. Tôi cũng đặt mua cho anh xã từ trang web này, không cần thanh toán trước đâu. Hàng được giao đến trong vòng 2 ngày.</p></div><div id="HEADLINE2470" class="ladi-element"><h3 class="ladi-headline"><script type="text/javascript">dtime_nums(-1, true)</script></h3></div><div id="LINE2471" class="ladi-element"><div class="ladi-line"><div class="ladi-line-container"></div></div></div></div></div><div id="GROUP2472" class="ladi-element"><div class="ladi-group"><div id="IMAGE2473" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div><div id="HEADLINE2474" class="ladi-element"><h3 class="ladi-headline">Tiến Dũng</h3></div><div id="PARAGRAPH2475" class="ladi-element"><p class="ladi-paragraph">Tôi đã đặt mua Tengsu tại web này cách đây 3 tuần. Nó được giao đến nhanh chóng, bọc kín đáo, có hướng dẫn chi tiết kèm theo. Tôi dùng được hơn 1 tuần thì cải thiện thật bất ngờ, cảm ơn Tengsu</p></div><div id="HEADLINE2476" class="ladi-element"><h3 class="ladi-headline"><script type="text/javascript">dtime_nums(-1, true)</script></h3></div><div id="LINE2477" class="ladi-element"><div class="ladi-line"><div class="ladi-line-container"></div></div></div></div></div><div id="GROUP2478" class="ladi-element"><div class="ladi-group"><div id="IMAGE2479" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div><div id="HEADLINE2480" class="ladi-element"><h3 class="ladi-headline">Đức Minh</h3></div><div id="PARAGRAPH2481" class="ladi-element"><p class="ladi-paragraph">Dùng sản phẩm này đỡ bao nhiêu tiền và cái công đi kiểm tra ở phòng khám. Đánh giá 5* về chất lượng và dịch vụ.
+<br>Đọc được trên Dân trí đưa tin nên đặt mua ngay tại đây, dùng có 2 viên mà đã cải thiện nhiều rồi...<br></p></div><div id="HEADLINE2482" class="ladi-element"><h3 class="ladi-headline"><script type="text/javascript">dtime_nums(-1, true)</script></h3></div><div id="LINE2483" class="ladi-element"><div class="ladi-line"><div class="ladi-line-container"></div></div></div></div></div><div id="IMAGE2484" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div><div id="GROUP2485" class="ladi-element"><div class="ladi-group"><div id="IMAGE2486" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div><div id="HEADLINE2487" class="ladi-element"><h3 class="ladi-headline">Duy Hùng</h3></div><div id="PARAGRAPH2488" class="ladi-element"><p class="ladi-paragraph">Mình đặt mua ở web này cách 2 tuần nhận hàng nhanh&nbsp; chóng mà kín đáo. hôm nay mình vừa đặt mua thêm, công nhận là sản phẩm dùng rất hiệu quả</p></div><div id="HEADLINE2489" class="ladi-element"><h3 class="ladi-headline"><script type="text/javascript">dtime_nums(-1, true)</script></h3></div><div id="LINE2490" class="ladi-element"><div class="ladi-line"><div class="ladi-line-container"></div></div></div></div></div><div id="GROUP2491" class="ladi-element"><div class="ladi-group"><div id="IMAGE2492" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div><div id="HEADLINE2493" class="ladi-element"><h3 class="ladi-headline">Văn Đức</h3></div><div id="PARAGRAPH2494" class="ladi-element"><p class="ladi-paragraph">Mọi người mua ở web khác cần thận khỏi hàng giả hàng nhái nhé. mình đã đặt mua tại website này và dùng được hơn 1 tháng rồi, hiệu quả rất tốt nên mọi người cứ yên tâm mà đặt hàng tại đây nhé.</p></div><div id="HEADLINE2495" class="ladi-element"><h3 class="ladi-headline"><script type="text/javascript">dtime_nums(-1, true)</script></h3></div><div id="LINE2496" class="ladi-element"><div class="ladi-line"><div class="ladi-line-container"></div></div></div></div></div><div id="GROUP2497" class="ladi-element"><div class="ladi-group"><div id="IMAGE2498" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div><div id="HEADLINE2499" class="ladi-element"><h3 class="ladi-headline">Đức Trọng</h3></div><div id="PARAGRAPH2500" class="ladi-element"><p class="ladi-paragraph">Sản phẩm này đã giúp được cho tôi nhiều lắm. Trước đây chính bản thân tôi còn bị tự ti, nhưng giờ thì hoàn toàn làm chủ bản thân rồi. Cảm ơn Tengsu</p></div><div id="HEADLINE2501" class="ladi-element"><h3 class="ladi-headline"><script type="text/javascript">dtime_nums(-1, true)</script></h3></div><div id="LINE2502" class="ladi-element"><div class="ladi-line"><div class="ladi-line-container"></div></div></div></div></div></div></div><div id="SECTION2051" class="ladi-section"><div class="ladi-section-background"></div><div class="ladi-container"><div id="HEADLINE2052" class="ladi-element"><h2 class="ladi-headline">Copyright © 2020 - All rights Reserved</h2></div><div id="LINE2053" class="ladi-element"><div class="ladi-line"><div class="ladi-line-container"></div></div></div>
+            <div id="HEADLINE2055" class="ladi-element"><h2 class="ladi-headline">KẾT NỐI VỚI CHÚNG TÔI</h2></div><div id="PARAGRAPH2056" class="ladi-element"><p class="ladi-paragraph">Viên ngậm Tengsu với các thành phần chọn lọc 100% tự nhiên đã được cấp phép và đạt tiêu chuẩn GMP<br><br></p></div>
+            <a id="HEADLINE2058" class="ladi-element scrolldown"><h2 class="ladi-headline">Hotline: <span style="font-weight: 700;">0969981231</span></h2></a><div id="SHAPE2059" class="ladi-element"><div class="ladi-shape"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1536 1896.0833" fill="rgba(126,192,55,1)"> <path d="M1280 1193q0-11-2-16-3-8-38.5-29.5T1151 1098l-53-29q-5-3-19-13t-25-15-21-5q-18 0-47 32.5t-57 65.5-44 33q-7 0-16.5-3.5T853 1157t-17-9.5-14-8.5q-99-55-170.5-126.5T525 842q-2-3-8.5-14t-9.5-17-6.5-15.5T497 779q0-13 20.5-33.5t45-38.5 45-39.5T628 631q0-10-5-21t-15-25-13-19q-3-6-15-28.5T555 492t-26.5-47.5-25-40.5-16.5-18-16-2q-48 0-101 22-46 21-80 94.5T256 631q0 16 2.5 34t5 30.5 9 33 10 29.5 12.5 33 11 30q60 164 216.5 320.5T843 1358q6 2 30 11t33 12.5 29.5 10 33 9 30.5 5 34 2.5q57 0 130.5-34t94.5-80q22-53 22-101zm256-777v960q0 119-84.5 203.5T1248 1664H288q-119 0-203.5-84.5T0 1376V416q0-119 84.5-203.5T288 128h960q119 0 203.5 84.5T1536 416z"></path> </svg></div></div><div id="SHAPE2060" class="ladi-element"><div class="ladi-shape"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="rgba(245,159,76,1)"> <path d="M16.36,14C16.44,13.34 16.5,12.68 16.5,12C16.5,11.32 16.44,10.66 16.36,10H19.74C19.9,10.64 20,11.31 20,12C20,12.69 19.9,13.36 19.74,14M14.59,19.56C15.19,18.45 15.65,17.25 15.97,16H18.92C17.96,17.65 16.43,18.93 14.59,19.56M14.34,14H9.66C9.56,13.34 9.5,12.68 9.5,12C9.5,11.32 9.56,10.65 9.66,10H14.34C14.43,10.65 14.5,11.32 14.5,12C14.5,12.68 14.43,13.34 14.34,14M12,19.96C11.17,18.76 10.5,17.43 10.09,16H13.91C13.5,17.43 12.83,18.76 12,19.96M8,8H5.08C6.03,6.34 7.57,5.06 9.4,4.44C8.8,5.55 8.35,6.75 8,8M5.08,16H8C8.35,17.25 8.8,18.45 9.4,19.56C7.57,18.93 6.03,17.65 5.08,16M4.26,14C4.1,13.36 4,12.69 4,12C4,11.31 4.1,10.64 4.26,10H7.64C7.56,10.66 7.5,11.32 7.5,12C7.5,12.68 7.56,13.34 7.64,14M12,4.03C12.83,5.23 13.5,6.57 13.91,8H10.09C10.5,6.57 11.17,5.23 12,4.03M18.92,8H15.97C15.65,6.75 15.19,5.55 14.59,4.44C16.43,5.07 17.96,6.34 18.92,8M12,2C6.47,2 2,6.5 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2Z"></path> </svg></div></div><div id="HEADLINE2061" class="ladi-element"><h2 class="ladi-headline">Trang Web Chính Hãng</h2></div>
+            <div id="HEADLINE2066" class="ladi-element"><h3 class="ladi-headline">* “Sản phẩm này không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh”.</h3></div><div id="HEADLINE2067" class="ladi-element"><h3 class="ladi-headline">* "Tác dụng của sản phẩm có thể khác nhau tùy cơ địa của người dùng "</h3></div><div id="IMAGE2310" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div></div></div><div id="SECTION_POPUP" class="ladi-section"><div class="ladi-section-background"></div><div class="ladi-container"><div id="POPUP2251" class="ladi-element"><div class="ladi-popup"><div class="ladi-overlay"></div><div id="HEADLINE2252" class="ladi-element"><h1 class="ladi-headline">GỌI LẠI CHO TÔI</h1>
+                    </div>
+                    <div id="FORM2253" data-config-id="5da0b1f182d52054bfc30f2e" class="ladi-element">
+                        <form action="order.php?fb_pixel_id=<?php echo (string)htmlspecialchars(@$_GET['fb_pixel_id'], ENT_QUOTES, 'utf-8'); ?>" method="POST" role="form" class="ladi-form">
+                            <input type="hidden" name="click_id" value="<?php echo (string)@$_GET['click_id']; ?>">
+                            <input type="hidden" name="adf_source" value="">
+                            <input type="hidden" name="country_code" value="VN">
+                            <input type="hidden" name="ip_country" value="VN">
+                            
+                            <div id="FORM_ITEM2256" class="ladi-element"><div class="ladi-form-item-container"><div class="ladi-form-item-background"></div>
+                                    <div class="ladi-form-item">
+                                        <input tabindex="2" name="phone" class="ladi-form-control" type="tel" placeholder="Nhập Số điện thoại" value="">
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="BUTTON2257" class="ladi-element"><div class="ladi-button"><div class="ladi-button-background"></div>
+                                    <div id="BUTTON_TEXT2257" class="ladi-element">
+                                        <button type="submit" class="ladi-headline js_submit">Gửi Đi</button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="FORM_ITEM2262" class="ladi-element"><div class="ladi-form-item-container"><div class="ladi-form-item-background"></div>
+                                    <div class="ladi-form-item">
+                                        <input tabindex="3" name="form_item2262" class="ladi-form-control" type="text" placeholder="Thời gian có thể nghe máy..." value="">
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div><div id="IMAGE2260" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div><div id="IMAGE2261" class="ladi-element"><div class="ladi-image"><div class="ladi-image-background"></div></div></div></div></div></div></div></div><div id="backdrop-popup" class="backdrop-popup"></div><div id="lightbox-screen" class="lightbox-screen"></div>
+<link href="./assets/ladipage.min.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="./assets/ladipage.min.js"></script>
 
-              <img src="./assets/image/sp2.png" class="img-fluid d-block mx-auto">
-              <h3>Viên ngậm tengsu</h3>
-            </div>
-          </div>
-          <div class="col-md-12 col-sm-6 wow slideInUp" data-wow-duration="1s" data-wow-delay="0.5s">
-            <div class="tp">
-              <img src="./assets/image/quyban.png" class="img-fluid d-block mx-auto">
-            </div>
-            <div class="box-border">
-              <div class="d-flex">
-                <div class="box-item  flex-fill align-self-center">
-                  <div class="d-flex">
-                    <img src="./assets/image/tp6.jpg" class="img-fluid d-block">
-                    <span class="align-self-center">Cao <br> quy <br>  bản</span>
-                  </div>
-                </div>
-                <div class="box-i flex-fill align-self-center">
-                  <p>Cao quy bản được làm từ yếm rùa phơi khô cực kì quý hiếm - không phải ai cũng có thể sở hữu, vị mặn, tính hàn có tác dụng bổ thận tráng dương, điều huyết và tăng cường sinh khí cho nam giới.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="btn-scoll ">
-          <button type="submit" class="btn btn-block  animated infinite pulse" data-scroll="#box-form">Đặt hàng ngay</button>
-      </div>
-      </div>
-    </div>
-  </div>
-  <div class="sec4">
-    <div class="container ladi">
-      <div class="box-show">
-        <h3>Bình luận về sản phẩm</h3>
-        <div class="fb-comm">
-
-          <div class="fb-head d-flex">
-            <div class="fb-num">31 bình luận</div>
-            <div class="flex-fill text-right">
-              <span>Sắp xếp theo</span>
-              <span>Mới nhất</span>
-            </div>
-          </div>
-          <div class="fb-body d-flex">
-            <div class="fb-av flex-fill">
-              <img src="./assets/image/damdung.jpg" class="d-block img-fluid mx-auto">
-            </div>
-            <div class="flex-fill fb-i">
-              <p class="name">Mạnh Dũng</p>
-              <p>Ngậm chưa tan kẹo đã phải cuống cuồng tìm vợ vì không thể kìm hãm được...</p>
-              <p><span>Thích</span>&nbsp;·&nbsp;<span>Phản hồi</span>&nbsp;·&nbsp;<span>3 phút</span></p>
-            </div>
-          </div>
-          <div class="fb-body d-flex">
-            <div class="fb-av flex-fill">
-              <img src="./assets/image/vandai.jpg" class="d-block img-fluid mx-auto">
-            </div>
-            <div class="flex-fill fb-i">
-              <p class="name">Văn Đại</p>
-              <p>Thiết kế nhỏ gọn, rất kín đáo, nhìn qua tưởng chỉ là kẹo thơm miệng thông thường. Dùng thật sự hiệu quả.</p>
-              <p><span>Thích</span>&nbsp;·&nbsp;<span>Phản hồi</span>&nbsp;·&nbsp;<span>5 phút</span></p>
-            </div>
-          </div>
-          <div class="fb-body d-flex">
-            <div class="fb-av flex-fill">
-              <img src="./assets/image/phuluong.jpg" class="d-block img-fluid mx-auto">
-            </div>
-            <div class="flex-fill fb-i">
-              <p class="name">Phú Lương</p>
-              <p>Tôi làm ở công ty Nhật và đồng nghiệp nam cũng hay rỉ tai nhau về loại Viên ngậm này.</p>
-              <p><span>Thích</span>&nbsp;·&nbsp;<span>Phản hồi</span>&nbsp;·&nbsp;<span>8 phút</span></p>
-            </div>
-          </div>
-          <div class="fb-body d-flex">
-            <div class="fb-av flex-fill">
-              <img src="./assets/image/xuanquy.jpg" class="d-block img-fluid mx-auto">
-            </div>
-            <div class="flex-fill fb-i">
-              <p class="name">Quý Xuân</p>
-              <p>Tôi không biết phải tả thế nào, nhưng chỉ cần vừa ngậm xong tôi đã hoàn toàn biến thành người khác, nóng bức, rộn rạo trong người, bắt buộc phải quan hệ ngay lập tức...</p>
-              <p><span>Thích</span>&nbsp;·&nbsp;<span>Phản hồi</span>&nbsp;·&nbsp;<span>15 phút</span></p>
-            </div>
-          </div>
-          <div class="fb-body d-flex">
-            <div class="fb-av flex-fill">
-              <img src="./assets/image/huongly.jpg" class="d-block img-fluid mx-auto">
-            </div>
-            <div class="flex-fill fb-i">
-              <p class="name">Hương Ly </p>
-              <p>Từ khi cho ny dùng Tengsu, em không bao giờ phải lo về con c "yếu đuối" của anh y nữa. Giờ nó hung hãn như con hổ bất trị rồi.</p>
-              <p><span>Thích</span>&nbsp;·&nbsp;<span>Phản hồi</span>&nbsp;·&nbsp;<span>32 phút</span></p>
-            </div>
-          </div>
-          <div class="fb-body d-flex">
-            <div class="fb-av flex-fill">
-              <img src="./assets/image/thanhdat.jpg" class="d-block img-fluid mx-auto">
-            </div>
-            <div class="flex-fill fb-i">
-              <p class="name">Thành Đạt</p>
-              <p>50 tuổi đầu mới biết làm vợ "sướng", tất cả là nhờ Tengsu. Thật tuyệt!</p>
-              <p><span>Thích</span>&nbsp;·&nbsp;<span>Phản hồi</span>&nbsp;·&nbsp;<span>46 phút</span></p>
-            </div>
-          </div>
-          <div class="fb-body d-flex">
-            <div class="fb-av flex-fill">
-              <img src="./assets/image/ducchien.jpg" class="d-block img-fluid mx-auto">
-            </div>
-            <div class="flex-fill fb-i">
-              <p class="name">Đức Chiến</p>
-              <p>Kẹo ngâm vị dễ chịu, không có tác dụng phụ, rất an tâm.</p>
-              <p><span>Thích</span>&nbsp;·&nbsp;<span>Phản hồi</span>&nbsp;·&nbsp;<span>1 giờ</span></p>
-            </div>
-          </div>
-          <div class="fb-body d-flex">
-            <div class="fb-av flex-fill">
-              <img src="./assets/image/quangninh.jpg?ver=1" class="d-block img-fluid mx-auto">
-            </div>
-            <div class="flex-fill fb-i">
-              <p class="name">Quang Ninh</p>
-              <p>Vợ em thắc mắc sao dạo này "khoẻ" thế, nhìn viên  ngậm Tengsu thì nào đoán ra nổi, bao bì nhìn khác gì viên ngậm thơm miệng cai thuốc lá đâu.</p>
-              <p><span>Thích</span>&nbsp;·&nbsp;<span>Phản hồi</span>&nbsp;·&nbsp;<span>1 giờ</span></p>
-            </div>
-          </div>
-          <div class="fb-body d-flex">
-            <div class="fb-av flex-fill">
-              <img src="./assets/image/congvinh.jpg?ver=1" class="d-block img-fluid mx-auto">
-            </div>
-            <div class="flex-fill fb-i">
-              <p class="name">Công Vinh</p>
-              <p>Hàng này tốt thật sự anh em ạ, ông nào yếu thì thử đi nhé!</p>
-              <p><span>Thích</span>&nbsp;·&nbsp;<span>Phản hồi</span>&nbsp;·&nbsp;<span>1 giờ</span></p>
-            </div>
-          </div>
-          <div class="fb-body d-flex">
-            <div class="fb-av flex-fill">
-              <img src="./assets/image/tuanh.jpg" class="d-block img-fluid mx-auto">
-            </div>
-            <div class="flex-fill fb-i">
-              <p class="name">Anh Tú</p>
-              <p>Nhận gói hàng bọc cẩn thận, mở ra trong hộp có 12 viên, chắc dùng được 1 tuần, nhưng hoá ra ngậm lần đầu đã có tác dụng luôn rồi.</p>
-              <p><span>Thích</span>&nbsp;·&nbsp;<span>Phản hồi</span>&nbsp;·&nbsp;<span>2 giờ</span></p>
-            </div>
-          </div>
-          <div class="fb-body d-flex">
-            <div class="fb-av flex-fill">
-              <img src="./assets/image/duynguyen.jpg" class="d-block img-fluid mx-auto">
-            </div>
-            <div class="flex-fill fb-i">
-              <p class="name">Duy Nguyễn</p>
-              <p>Một phát lên đỉnh, nghe vợ rên mới biết phê cỡ nào... Hoá ra dùng bao loại, bồi bổ các kiểu cũng chả bằng viên  ngậm bé tẹo này.</p>
-              <p><span>Thích</span>&nbsp;·&nbsp;<span>Phản hồi</span>&nbsp;·&nbsp;<span>2 giờ</span></p>
-            </div>
-          </div>
-          <div class="fb-body d-flex">
-            <div class="fb-av flex-fill">
-              <img src="./assets/image/thuquynh.jpg" class="d-block img-fluid mx-auto">
-            </div>
-            <div class="flex-fill fb-i">
-              <p class="name">Thu Quỳnh</p>
-              <p>Đời em chả biết "sướng" bao giờ cho đến khi tự mua Tengsu cho chồng ngậm, giờ thì hạnh phúc đ chịu nổi. Hiiiii</p>
-              <p><span>Thích</span>&nbsp;·&nbsp;<span>Phản hồi</span>&nbsp;·&nbsp;<span>2 giờ</span></p>
-            </div>
-          </div>
-          <div class="fb-foodter ">
-            <button type="button" class="btn btn-block animated infinite pulse fb" data-scroll="#box-form">ĐẶT HÀNG NGAY</button>
-            <p>Plugin bình luận trên Facebook</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="sec5">
-    <div class="container">
-      <div class="box-show">
-        <h2>VÌ SAO Viên NGẬM TENGSU LUÔN LÀ LỰA CHỌN HÀNG ĐẦU <br> TRONG TRỊ TRƯỜNG SẢN PHẨM TĂNG CƯỜNG SINH LÝ?</h2>
-        <div class="row">
-          <div class="col-md-6">
-            <div class="box-item d-flex left  wow slideInLeft" data-wow-duration="1s" data-wow-delay="0.25s">
-              <div class="flex-fill "><img src="./assets/image/ext1.png" class="img-fluid d-block mx-auto"></div>
-              <p class="align-self-center">Viên ngậm tan ngay trong miệng, tác dụng ngay lập tức, kích thích bản năng nhục dục trỗi dậy</p>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="box-item d-flex right  wow slideInRight" data-wow-duration="1s" data-wow-delay="0.25s">
-              <div class="flex-fill"><img src="./assets/image/ext4.png" class="img-fluid d-block mx-auto"></div>
-              <p class="align-self-center">Vị kẹo the ngọt, không hề khó chịu, ngậm xong để lại hương thơm trong miệng, không ai có thể phát hiện</p>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="box-item d-flex left  wow slideInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
-              <div class="flex-fill "><img src="./assets/image/ext2.png" class="img-fluid d-block mx-auto"></div>
-              <p class="align-self-center">Viên ngậm đóng gói nhỏ gọn, tiện lợi, theo bạn đi bất cứ đấu, cực kì kín đáo và an toàn</p>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="box-item d-flex right  wow slideInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-              <div class="flex-fill"><img src="./assets/image/ext5.png" class="img-fluid d-block mx-auto"></div>
-              <p class="align-self-center">Tăng cường sinh lý phái mạnh, tăng cường ham muốn, cho người dùng "khoẻ" từ bên trong</p>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="box-item d-flex left  wow slideInLeft" data-wow-duration="1s" data-wow-delay="0.75s">
-              <div class="flex-fill "><img src="./assets/image/ext3.png" class="img-fluid d-block mx-auto"></div>
-              <p class="align-self-center">Chiết xuất 100% thiên nhiên, đặc biệt có sự hiện diện của Cao Quy Bản - Thảo dược quý giá nghìn năm với công dụng sinh lý tuyệt vời</p>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="box-item d-flex right  wow slideInRight" data-wow-duration="1s" data-wow-delay="0.75s">
-              <div class="flex-fill"><img src="./assets/image/ext6.png" class="img-fluid d-block mx-auto"></div>
-              <p class="align-self-center">Bổ sung chất oxy hoá có tác dụng chống các gốc tự do, làm chất quá trình lão hoá, kéo dài tình trạng sung mãn sinh lý</p>
-            </div>
-          </div>
-          <div class="col-md-12">
-            <div class="box-sp">
-              <img src="./assets/image/sp3.png" class="img-fluid d-block mx-auto">
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="sec6">
-    <div class="container">
-      <div class="box-show">
-        <div class="row">
-          <div class="col-md-5">
-            <div class="box-sp">
-              <img src="./assets/image/sp3.png" class="img-fluid d-block mx-auto">
-            </div>
-          </div>
-          <div class="col-md-7">
-            <div class="box-i">
-              <ul>
-                <li>- Dùng 1 viên/lần</li>
-                <li>- Ngậm 1-2 lần/ngày</li>
-                <li>- Ngậm hoặc nhai trước khi nuốt</li>
-              </ul>
-              <h4>lưu ý</h4>
-              <p>- Không sử dụng cho người dưới 18 tuổi</p>
-              <p>- Không sử dụng cho người có tiền sử bệnh tim mạch, cao huyết áp, nhồi máu cơ tim</p>
-              <p>- Dùng quá liều có thể gây cương cứng lâu, ảnh hưởng đến đời sống sinh hoạt</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="sec7">
-    <div class="container ladi">
-      <div class="box-show">
-        <h2>VIÊN NGẬM SINH LÝ TENGSU <br> CAM KẾT TỪ NHÀ SẢN XUẤT</h2>
-        <div class="row">
-          <div class="col-md-6">
-            <div class="box-sp">
-              <img src="./assets/image/gp.png" class="img-fluid d-block mx-auto">
-            </div>
-          </div>
-          <div class="col-md-6 align-self-center">
-            <div class="box-i">
-              <p class="wow slideInRight" data-wow-duration="1s" data-wow-delay="0.25s">Sản phẩm chính hãng <br> Bộ Y Tế cấp phép</p>
-              <p class="wow slideInRight" data-wow-duration="1s" data-wow-delay="0.5s">Không có tác dụng phụ</p>
-              <p class="wow slideInRight" data-wow-duration="1s" data-wow-delay="0.75s">Chuyên gia nam học luôn <br> đồng hành cùng người dùng</p>
-              <p class="wow slideInRight" data-wow-duration="1s" data-wow-delay="1s">Bảo mật thông tin khách hàng tối ưu</p>
-              <p class="wow slideInRight" data-wow-duration="1s" data-wow-delay="1.25s">Hiệu quả ngay từ lần dùng đầu tiên</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="sec7 seca">
-    <div class="container ladi">
-      <div class="box-show">
-        <h2>HỘI THẢO QUỐC TẾ: CẬP NHẬP GIẢI PHÁP MỚI TRONG HỖ TRỢ TĂNG CƯỜNG SINH LỰC NAM GỌI TÊN VIÊN NGẬM TENGSU</h2>
-        <p>Dượng ơi Thanh Bình, tài tử điện ảnh Hải Anh... cùng các chuyên gia trong và ngoài nước hào hứng với viên ngậm sinh lý thế hệ mới Tengsu</p>
-        <div class="row">
-          <div class="col-md-6">
-            <div class="box-photo">
-              <img src="./assets/image/4f5ad6f4a8d5538b0ac415.webp?ver=1" class="img-fluid d-block mx-auto">
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="box-photo">
-              <img src="./assets/image/6b5f54cc2aedd1b388fc11.webp?ver=1" class="img-fluid d-block mx-auto">
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="box-photo">
-              <img src="./assets/image/32fb176e694f9211cb5e8.webp?ver=1" class="img-fluid d-block mx-auto">
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="box-photo">
-              <img src="./assets/image/457facd4d2f529ab70e423.webp?ver=1" class="img-fluid d-block mx-auto">
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="sec8">
-    <div class="container ladi">
-      <div class="row">
-        <div class="col-lg-6 ">
-          <div class="box-show">
-            <h1>tengsu</h1>
-            <p>Viên NGẬM TĂNG CƯỜNG SINH LÝ <br> SẢN PHẨM HOÀN HẢO CHO PHÁI MẠNH</p>
-            
-            <div class="box-sp">
-              <img src="./assets/image/sp4.png" class="img-fluid d-block mx-auto">
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6">
-          <div class="box-form" id="box-form">
-             <div class="f-head">
-                 <h2>đặt mua ngay </h2>
-                 <p>số lượng sản phẩm có hạn</p>
-             </div>
-             <div class="f-body">
-                  <div class="coutdown">
-                      <div class="clock">
-                          <div id="coutdown"></div>
-                      </div>
-                  </div>
-                  <div class="f-order">
-                      <form  action="order.php?fb_pixel_id=<?php echo (string)htmlspecialchars(@$_GET['fb_pixel_id'], ENT_QUOTES, 'utf-8'); ?>" method="POST" >
-                          <input type="hidden" name="click_id" value="<?php echo (string)@$_GET['click_id']; ?>">
-                          <input type="hidden" name="adf_source" value="">
-                          <input type="hidden" name="country_code" value="VN">
-                          <input type="hidden" name="ip_country" value="VN">
-                          <div class="form-group">
-                            <input type="text" class="form-control" id="name" name="name" placeholder="Họ tên *">
-                          </div>
-                          <div class="form-group">            
-                            <input type="text" class="form-control" id="phone" name="phone" placeholder="Số điện thoại *">
-                          </div>
-                          <div class="form-group">            
-                            <textarea class="form-control" rows="2" id="address" name="address" placeholder="Địa chỉ"></textarea>
-                          </div>
-                          <div class="price">
-                              <div class="p-o">Giá cũ 1580.000 VND/hộp</div>
-                              <div class="p-s">MUA 2 TẶNG 1</div>
-                              <div class="p-n"><sub>chỉ còn</sub> 790.000 VND/hộp</div>
-                              
-                          </div>
-                          <button type="submit" class="btn btn-block js_submit  animated infinite pulse">Đặt hàng ngay</button>
-                      </form>
-                  </div>
-             </div>
-           </div>
-           <p>** Sản phẩm không phải là thuốc không thay thế thuốc  chữa bệnh <br>
-           Tác dụng nhanh hay chậm tùy thuộc vào cơ địa của mỗi người</p>
-        </div>
-      </div>
-    </div>
-  </div>
+<script id="script_event_data" type="text/javascript">
+    (function () {var run = function () {
+        if (typeof window.LadiPageScript == "undefined" || window.LadiPageScript == undefined || typeof window.ladi == "undefined" || window.ladi == undefined) {
+            setTimeout(run, 100); return;
+        }
+        window.LadiPageApp = window.LadiPageApp || new window.LadiPageAppV2();window.LadiPageScript.runtime.ladipage_id = '5f029a19db7aa06b1b184955';
+        window.LadiPageScript.runtime.isMobileOnly = false;
+        window.LadiPageScript.runtime.DOMAIN_SET_COOKIE = ["pagedemo.me"];
+        window.LadiPageScript.runtime.DOMAIN_FREE = [];
+        window.LadiPageScript.runtime.bodyFontSize = 12;
+        window.LadiPageScript.runtime.time_zone = 7;
+        window.LadiPageScript.runtime.currency = "VND";
+        window.LadiPageScript.runtime.eventData = '{"GALLERY1573":{"type":"gallery","desktop.option.gallery_control.autoplay":true,"desktop.option.gallery_control.autoplay_time":5,"mobile.option.gallery_control.autoplay":true,"mobile.option.gallery_control.autoplay_time":5},"GALLERY2504":{"type":"gallery","desktop.option.gallery_control.autoplay":true,"desktop.option.gallery_control.autoplay_time":5,"mobile.option.gallery_control.autoplay":true,"mobile.option.gallery_control.autoplay_time":5},"GALLERY2399":{"type":"gallery","desktop.option.gallery_control.autoplay":true,"desktop.option.gallery_control.autoplay_time":5,"mobile.option.gallery_control.autoplay":true,"mobile.option.gallery_control.autoplay_time":5}}';
+        window.LadiPageScript.run(true);
+        window.LadiPageScript.runEventScroll();
+        };run();
+    })();
+</script>
+<div id="m6vXayA-1591946443121" class="" style="display: block !important;">
+    <div class="" style="outline: none !important; visibility: visible !important; resize: none !important; box-shadow: none !important; overflow: visible !important; background: none transparent !important; opacity: 1 !important; top: 0px !important; right: auto !important; bottom: auto !important; left: 0px !important; position: absolute !important; border: 0px !important; min-height: auto !important; min-width: auto !important; max-height: none !important; max-width: none !important; padding: 0px !important; margin: 0px !important; transition-property: none !important; transform: none !important; width: 100% !important; height: 100% !important; display: none !important; z-index: 1000001 !important; cursor: move !important; float: left !important; border-radius: unset !important; pointer-events: auto !important;"></div>
+    <div id="tBJX1AV-1591946443121" class="" style="outline: none !important; visibility: visible !important; resize: none !important; box-shadow: none !important; overflow: visible !important; background: none transparent !important; opacity: 1 !important; top: 0px !important; right: auto !important; bottom: auto !important; left: 0px !important; position: absolute !important; border: 0px !important; min-height: auto !important; min-width: auto !important; max-height: none !important; max-width: none !important; padding: 0px !important; margin: 0px !important; transition-property: none !important; transform: none !important; width: 6px !important; height: 100% !important; display: block !important; z-index: 999998 !important; cursor: w-resize !important; float: none !important; border-radius: unset !important; pointer-events: auto !important;"></div>
+    <div id="U8Vas94-1591946443121" class="" style="outline: none !important; visibility: visible !important; resize: none !important; box-shadow: none !important; overflow: visible !important; background: none transparent !important; opacity: 1 !important; top: 0px !important; right: 0px !important; bottom: auto !important; left: auto !important; position: absolute !important; border: 0px !important; min-height: auto !important; min-width: auto !important; max-height: none !important; max-width: none !important; padding: 0px !important; margin: 0px !important; transition-property: none !important; transform: none !important; width: 6px !important; height: 100% !important; display: block !important; z-index: 999998 !important; cursor: e-resize !important; float: none !important; border-radius: unset !important; pointer-events: auto !important;"></div>
+    <div id="SQ83o88-1591946443121" class="" style="outline: none !important; visibility: visible !important; resize: none !important; box-shadow: none !important; overflow: visible !important; background: none transparent !important; opacity: 1 !important; top: 0px !important; right: 0px !important; bottom: auto !important; left: auto !important; position: absolute !important; border: 0px !important; min-height: auto !important; min-width: auto !important; max-height: none !important; max-width: none !important; padding: 0px !important; margin: 0px !important; transition-property: none !important; transform: none !important; width: 100% !important; height: 6px !important; display: block !important; z-index: 999998 !important; cursor: n-resize !important; float: none !important; border-radius: unset !important; pointer-events: auto !important;"></div>
+    <div id="Sh4MkFr-1591946443121" class="" style="outline: none !important; visibility: visible !important; resize: none !important; box-shadow: none !important; overflow: visible !important; background: none transparent !important; opacity: 1 !important; top: auto !important; right: 0px !important; bottom: 0px !important; left: auto !important; position: absolute !important; border: 0px !important; min-height: auto !important; min-width: auto !important; max-height: none !important; max-width: none !important; padding: 0px !important; margin: 0px !important; transition-property: none !important; transform: none !important; width: 100% !important; height: 6px !important; display: block !important; z-index: 999998 !important; cursor: s-resize !important; float: none !important; border-radius: unset !important; pointer-events: auto !important;"></div>
+    <div id="KDsZCxD-1591946443121" class="" style="outline: none !important; visibility: visible !important; resize: none !important; box-shadow: none !important; overflow: visible !important; background: none transparent !important; opacity: 1 !important; top: 0px !important; right: auto !important; bottom: auto !important; left: 0px !important; position: absolute !important; border: 0px !important; min-height: auto !important; min-width: auto !important; max-height: none !important; max-width: none !important; padding: 0px !important; margin: 0px !important; transition-property: none !important; transform: none !important; width: 12px !important; height: 12px !important; display: block !important; z-index: 999998 !important; cursor: nw-resize !important; float: none !important; border-radius: unset !important; pointer-events: auto !important;"></div>
+    <div id="dQQ5FXe-1591946443122" class="" style="outline: none !important; visibility: visible !important; resize: none !important; box-shadow: none !important; overflow: visible !important; background: none transparent !important; opacity: 1 !important; top: 0px !important; right: 0px !important; bottom: auto !important; left: auto !important; position: absolute !important; border: 0px !important; min-height: auto !important; min-width: auto !important; max-height: none !important; max-width: none !important; padding: 0px !important; margin: 0px !important; transition-property: none !important; transform: none !important; width: 12px !important; height: 12px !important; display: block !important; z-index: 999998 !important; cursor: ne-resize !important; float: none !important; border-radius: unset !important; pointer-events: auto !important;"></div>
+    <div id="mAa1MoQ-1591946443122" class="" style="outline: none !important; visibility: visible !important; resize: none !important; box-shadow: none !important; overflow: visible !important; background: none transparent !important; opacity: 1 !important; top: auto !important; right: auto !important; bottom: 0px !important; left: 0px !important; position: absolute !important; border: 0px !important; min-height: auto !important; min-width: auto !important; max-height: none !important; max-width: none !important; padding: 0px !important; margin: 0px !important; transition-property: none !important; transform: none !important; width: 12px !important; height: 12px !important; display: block !important; z-index: 999998 !important; cursor: sw-resize !important; float: none !important; border-radius: unset !important; pointer-events: auto !important;"></div>
+    <div id="QM0bO2o-1591946443122" class="" style="outline: none !important; visibility: visible !important; resize: none !important; box-shadow: none !important; overflow: visible !important; background: none transparent !important; opacity: 1 !important; top: auto !important; right: 0px !important; bottom: 0px !important; left: auto !important; position: absolute !important; border: 0px !important; min-height: auto !important; min-width: auto !important; max-height: none !important; max-width: none !important; padding: 0px !important; margin: 0px !important; transition-property: none !important; transform: none !important; width: 12px !important; height: 12px !important; display: block !important; z-index: 999999 !important; cursor: se-resize !important; float: none !important; border-radius: unset !important; pointer-events: auto !important;"></div>
 </div>
-  <!-- Cookie-popup-wrap -->
-    <div class="cookie-popup-wrap">
-        <div class="cookie-popup">
-            <h2>Để lại thông tin để được mua hàng với giá ưu đãi</h2>
-            <form action="order.php?fb_pixel_id=<?php echo (string)htmlspecialchars(@$_GET['fb_pixel_id'], ENT_QUOTES, 'utf-8'); ?>" method="POST" role="form" class="form-order">
-                <input type="hidden" name="click_id" value="<?php echo (string)@$_GET['click_id']; ?>">
-                <input type="hidden" name="address" value="">
-                <input type="hidden" name="adf_source" value="">
-                <input type="hidden" name="country_code" value="VN">
-                <input type="hidden" name="ip_country" value="VN">
-                <div class="content">
-                    <div class="form-group">
-                        <!-- <label for="">Họ tên *</label> -->
-                        <input type="text" class="form-control" id="name" name="name" placeholder="Họ tên *">
-                    </div>
-                    <div class="form-group">
-                        <!-- <label for="">Số điện thoại *</label> -->
-                        <input type="tel" class="form-control" id="phone" name="phone" placeholder="Số điện thoại *">
-                    </div>
-                    <div class="form-group">
-                       <!--  <label for="">Địa chỉ</label> -->
-                        <textarea class="form-control" placeholder="Địa chỉ" name="address" rows="3" placeholder="Địa chỉ"></textarea>
-                    </div>
-                    <button type="submit" class="btn btn-block btn-box js_submit">Đặt mua ngay</button>
-                </div>
-            </form>
-            <h6 id="closepopup"><a href="#" style="color: #fff;font-weight: bold;">Đóng</a></h6>
-        </div>
-    </div>
-    
-<!--End .cookie-popup-->
-<style>
-    div.cookie-popup-wrap {
-        position: relative;
-        width: 100%;
-        height: 100%;
-        position: fixed;
-        background: rgba(0, 0, 0, 0.6);
-        top: 0;
-        left: 0;
-        display: none;
-        z-index: 99999;
-        /*padding: 15px;*/
-    }
 
-    div.cookie-popup {
-        font-family: "Roboto";
-        max-width: 340px;
-        margin: 10% auto;
-        background-color: #323437;
-        padding: 10px 20px;
-        z-index: 1000;
-        border: 2px solid #fed203;
-        border-radius: 5px;
-    }
-
-    div.cookie-popup form {
-        width: 100%;
-        margin: 5% auto;
-        background-color: #323437;
-        padding: 0;
-        border: none;
-    }
-
-    div.cookie-popup h2 {
-        margin-bottom: 20px;
-        font-size: 22px;
-        text-align: center;
-        color: #fff;
-        text-transform: uppercase;
-        line-height: 1.35;
-    }
-
-    div.cookie-popup .form-order .content{
-        background-color: #323437;
-    }
-
-    div.cookie-popup p {
-        text-align: right;
-        font-size: 12px;
-        margin-top: 20px;
-        padding-top: 5px;
-    }
-
-    div.cookie-popup h6 a {
-        color: #888;
-        text-decoration: none;
-    }
-
-    div.cookie-popup h6 {
-        border-top: 1px solid #DDDDDD;
-        text-align: right;
-        font-size: 12px;
-        margin-top: 20px;
-        padding-top: 10px;
-    }
-
-    div.cookie-popup h6 a {
-        color: #888;
-        text-decoration: none;
-    }
-
-    div.cookie-popup input {
-        width: 100%;
-        height: 35px;
-        margin: 7px auto;
-        text-indent: 5px;
-        font-size: 15px;
-        line-height: 35px;
-        font-family: "RobotoRegular", sans-serif;
-        color: #8b8b8b;
-        background-color: #ffffff;
-        border: none;
-        outline: none;
-        display: block;
-    }
-
-    div.cookie-popup label {
-        color: #fff;
-        font-size: 17px;
-        font-weight: normal;
-        margin-bottom: unset;
-    }
-
-    div.cookie-popup .js_submit {
-        text-align: center;
-        color: #fff;
-        font-size: 22px;
-        margin-top: 5px;
-        width: 100%;
-        text-transform: uppercase;
-        background: linear-gradient(to top,#b80630,#b80630);
-    }
-
-    div.cookie-popup .text-popup {
-        display: block;
-        width: 240px;
-        margin: 15px auto;
-        padding: 10px;
-    }
-
-    div.cookie-popup-wrap .cookie-popup .form-order .content {
-        padding: 0;
-        border: none;
-    }
-
-    </style>
-    <!-- End.cookie-popup-wrap -->
-  <!-- Connect -->
 <script type="text/javascript">
-  var clock;
-  clock = $('#coutdown').FlipClock({
-      clockFace: 'DailyCounter',
-      autoStart: false,
-      showSeconds: false,
-      language: 'vi-vi',
-  });      
-  clock.setTime(160650);
-  clock.setCountdown(true);
-  clock.start();
-  function getTimeRemaining(endtime) {
-      var t = Date.parse(endtime) - Date.parse(new Date());
-      var seconds = Math.floor((t / 1000) % 60);
-      var minutes = Math.floor((t / 1000 / 60) % 60);
-      var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
-      var days = Math.floor(t / (1000 * 60 * 60 * 24));
+    // count down
+    var intr,time=37500;function start_timer(){intr=setInterval(tick,1e3)}function tick(){time-=1;var e=Math.floor(time/3600),t=time%60,i=Math.floor((time-3600*e)/60);0==e&&0==i&&0==t&&clearInterval(intr),t=10<=t?t:"0"+t,i=10<=i?i:"0"+i,e=10<=e?e:"0"+e,$("#hour").html(e),$("#min").html(i),$("#sec").html(t)}function getTimeRemaining(e){var t=Date.parse(e)-Date.parse(new Date),i=Math.floor(t/1e3%60),n=Math.floor(t/1e3/60%60),r=Math.floor(t/36e5%24);return{total:t,days:Math.floor(t/864e5),hours:r,minutes:n,seconds:i}}start_timer();var deadline=new Date(Date.parse(new Date)+375e5);function initializeClock(e,t){var i=document.getElementById(e),n=i.querySelector("#md"),r=i.querySelector("#mh"),a=i.querySelector("#mm"),l=i.querySelector("#ms");function o(){var e=getTimeRemaining(t);n.innerHTML=e.days,r.innerHTML=("0"+e.hours).slice(-2),a.innerHTML=("0"+e.minutes).slice(-2),l.innerHTML=("0"+e.seconds).slice(-2),e.total<=0&&clearInterval(m)}o();var m=setInterval(o,1e3)}initializeClock("COUNTDOWN2152",deadline),initializeClock("COUNTDOWN1931",deadline);
 
-      return {
-        'total': t,
-        'days': days < 10 ? '0'+days : ''+days ,
-        'hours': hours < 10 ? '0'+hours : ''+hours ,
-        'minutes': minutes < 10 ? '0'+minutes : ''+minutes,
-        'seconds': seconds < 10 ? '0'+seconds : ''+seconds,
-      };
-    }
-
-    function initializeClock(id, endtime) {
-      var clock = document.getElementById(id);
-      var daysSpan = clock.querySelector('.day');
-      var hoursSpan = clock.querySelector('.hour');
-      var minutesSpan = clock.querySelector('.min');
-      // var secondsSpan = clock.querySelector('.timer__seconds');
-
-      function updateClock() {
-        var t = getTimeRemaining(endtime) 
-        daysSpan.innerHTML = `<span>${t.days.slice(0,1)}</span><span>${t.days.slice(1,2)}</span><sub>Ngày</sub>`;
-        hoursSpan.innerHTML = `<span>${t.hours.slice(0,1)}</span><span>${t.hours.slice(1,2)}</span><sub>Giờ</sub>`;
-        minutesSpan.innerHTML =  ` <span>${t.minutes.slice(0,1)}</span><span>${t.minutes.slice(1,2)}</span><sub>phút</sub>`;
-        // console.log(t.seconds)
-        if (t.total <= 0) {
-          clearInterval(timeinterval);
-        }
-      }
-      
-      updateClock();
-      var timeinterval = setInterval(updateClock, 1000);
-    }
-     var deadline = new Date(Date.parse(new Date()) +  160650 * 1000);
-    initializeClock('timer', deadline);
-    wow = new WOW().init()
+    // scroll down
+    $(function(){$("[data-scroll]").click(function(){var o=$(this).data("scroll");return $("html,body").animate({scrollTop:$(o).offset().top},700),!1})}),$(".scrolldown").click(function(){$("html, body").animate({scrollTop:$(".toform").offset().top},1e3)});
 </script>
-<!-- Data scroll -->
-    <script>
-        $(function() {
-            $('[data-scroll]').click(function() {
-                var target = $(this).data('scroll');
-                $('html,body').animate({
-                    scrollTop: $(target).offset().top
-                }, 700);
-                return false;
-            });
-        });
-    </script>
+<script type="text/javascript" src="https://d2uk0m3iwj5j1z.cloudfront.net/epage-2.0.5.js"></script>
+<script type="text/javascript">
+    Epage.init({
+        offer_id: 'tengsu-vn',
+        hint_phone: '0987654321',
+        hint_name: 'Lê Văn Minh',
+        popup_time: 45000
+    });
 </script>
-  <!-- Connect -->
-    <script type="text/javascript" src="https://d2uk0m3iwj5j1z.cloudfront.net/epage-1.9.3.js"></script>
-    <script type="text/javascript">
-        Epage.init({
-            offer_id: 'tengsu-vn',
-            hint_phone: '0164567890',
-            hint_name: 'Lê Ngọc Minh',
-            popup_time: 45000
-        });
-    </script>
 
-    <!-- Data scroll -->
-    <script>
-        $(function() {
-            $('[data-scroll]').click(function() {
-                var target = $(this).data('scroll');
-                $('html,body').animate({
-                    scrollTop: $(target).offset().top
-                }, 700);
-                return false;
-            });
-        });
-    </script>
-    <!-- Fb Pixel -->
-    <?php
-        $fbPixel = htmlspecialchars(@$_GET['fb_pixel_id'], ENT_QUOTES, 'utf-8');
-        if (isset($fbPixel) && $fbPixel !== '') {
+<?php
+$fbPixel = htmlspecialchars(@$_GET['fb_pixel_id'], ENT_QUOTES, 'utf-8');
+if (isset($fbPixel) && $fbPixel !== '') {
+    echo "<script>
+                !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+                n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+                t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+                document,'script','https://connect.facebook.net/en_US/fbevents.js');
+            </script>";
+    $fbPixelArr = explode(',', $fbPixel);
+    for ($i=0; $i <  count($fbPixelArr); $i++) {
+        if ($i >= 5) break;
+        $fbPixel = trim($fbPixelArr[$i]);
         echo "<script>
-        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-        document,'script','https://connect.facebook.net/en_US/fbevents.js');
-
-        fbq('init', '$fbPixel');
-        fbq('track', \"PageView\");
-        </script>
-        <noscript><img height=\"1\" width=\"1\" style=\"display:none\"
-        src=\"https://www.facebook.com/tr?id=$fbPixel&ev=PageView&noscript=1\"
-        /></noscript>";
-        }
-    ?>
-  <!-- Facebook Pixel Code -->
-<script src="./assets/js/fbp.js"></script>
-<!-- End Facebook Pixel Code -->
+                    fbq('init', '$fbPixel');
+                    fbq('track', \"PageView\");
+                </script>
+                <noscript><img height=\"1\" width=\"1\" style=\"display:none\"
+                src=\"https://www.facebook.com/tr?id=$fbPixel&ev=PageView&noscript=1\"
+                /></noscript>";
+    }
+}
+?>
 </body>
 </html>

@@ -3,108 +3,30 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta content="IE=edge" http-equiv="X-UA-Compatible">
-    <meta content="width=device-width,minimum-scale=1,initial-scale=1" name="viewport">
+    <meta content="width=device-width,minimum-scale=1,initial-scale=1" name="viewport" id="viewport">
     <meta content="index,follow,all" name="robots">
     <meta content="vi" http-equiv="content-language">
-    <meta name="google-site-verification" content="6211fusT9UOuL_D3-anTTtM9JosCObdM3hZs8HM4rFg" />
-    <link rel="shortcut icon" href="assets/image/logo.ico" type = "image/x-icon"/> 
-
     <title>Thank you</title>
-
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css?family=Pinyon+Script" rel="stylesheet">
-
-    <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-N7WXPN8');</script>
-    <!-- End Google Tag Manager -->
-    <script async="async" tahc="5hXfzBwl4vPkBMo" language="JavaScript" src="//zigzag.vn/js/check.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" as="style" onload="this.onload = null;this.rel = 'stylesheet';">
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;800&display=swap" as="style" onload="this.onload = null;this.rel = 'stylesheet';">
+    <style type="text/css">body{color:#fff;font-family:Montserrat,sans-serif;background-blend-mode:color;background-size:250% 750px;background-color:rgb(0 0 0 / 80%);background-position:top center;background-repeat:no-repeat;background-image:url(http://muahangnhanh.live/unnica/tapchikinhdoanh/bg-thankyou.jpg)}#thank-you .note{margin-bottom: 2.8rem;}#thank-you{top:50%;left:50%;width:100%;max-width:545px;min-height:100%;position:absolute;border-radius:5px;padding:55px 20px 20px;background-color:rgb(23 23 23 / 55%);border:1px solid #000;transform:translate(-50%,-50%)}#thank-you img{margin-bottom:1.5rem}#thank-you h1{color:#ffa70d;font-size:27px;font-weight:800;text-align:center;position:relative;margin-bottom:2.5rem;padding-bottom:.75rem}#thank-you:after{right:5px;bottom:25px;content:"";width:100px;height:100px;position:absolute;background-size:contain;background-repeat:no-repeat;background-image:url(http://muahangnhanh.live/unnica/tapchikinhdoanh/thankyou.png)}#thank-you h1:after{left:50%;bottom:0;content:"";width:100%;max-width:435px;min-height:1px;position:absolute;background-color:#fff;transform:translateX(-50%)}#thank-you p{font-size:15px;line-height: 25px; font-weight:300;letter-spacing:-.25px}#thank-you .btn-box{margin-right: auto;margin-left: auto;color:#fff;font-size:16px;max-width:180px;background-color:#e31813;text-transform:uppercase;font-family:Montserrat,sans-serif}@media(min-width:550px){body{background-size:unset}#thank-you{padding:30px 25px;min-height:520px;background-color:#171717}#thank-you .btn-box{bottom:35px}}@media(min-width:768px){#thank-you h1{font-size:32px}#thank-you{padding:30px 25px;min-height:520px}#thank-you .btn-box{bottom:25px}#thank-you:after{right:-80px;bottom:-40px;content:"";width:150px;height:150px;position:absolute;background-size:contain;background-repeat:no-repeat;background-image:url(http://muahangnhanh.live/unnica/tapchikinhdoanh/thankyou.png)}#thank-you p span:last-child{display:block}#thank-you img{margin-bottom:1rem}}</style>
+    <script type="text/javascript">window.ladi_viewport=function(){var i="width=device-width, initial-scale=1";if((window.outerWidth>0?window.outerWidth:window.screen.width)<= 420)i="width=414, user-scalable=no";document.getElementById("viewport").setAttribute("content",i)},window.addEventListener("resize",window.ladi_viewport);window.ladi_viewport()</script>
+    <script>!function(e,t,a,n,g){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,r.src="https://www.googletagmanager.com/gtm.js?id=GTM-N7WXPN8",m.parentNode.insertBefore(r,m)}(window,document,"script","dataLayer");</script>
 </head>
-<style>
-    .thankyou{
-        font-family: arial;
-        font-size: 24px !important;
-        border-radius: 4px;
-        background-color: #87CEFA;
-        color: #fff;
-        padding: 50px 30px;
-        margin: 100px auto;
-        text-align: center;
-        line-height: 1.8em;
-    }
-    .thankyou a{
-        color: #5d5de6;
-        text-decoration: none;
-    }
-    .thankyou a:hover{
-        text-decoration: none;
-    }
-    .check{
-        font-size: 2.4em;
-        color: #0e8ee4;
-    }
-</style>
+
 <body>
-    <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N7WXPN8"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-    <section class="section zero">
-    </section>
-    <section class="section intro">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12  text-center ">
-                    <div class="thankyou">
-                        <div class="check">
-                            ✔
-                        </div>
-                        <p style="font-family: Pinyon Script;font-size: 2em;line-height: 1.4em;">
-                            Thank you
-                        </p>
-                        <p>
-                            Bạn đã đặt hàng thành công. Chúng tôi sẽ liên lạc với bạn qua số điện thoại trong thời gian sớm nhất. Bạn vui lòng để ý điện thoại nhé!
-                        </p>
-                        <a onclick="goBack()" href="#" style="font-size: 1em;">< Quay lại ></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <script>
-        function goBack() {
-            window.history.back();
-        }
-    </script>
-
-    <?php
-        $fbPixel = htmlspecialchars(@$_GET['fb_pixel_id'], ENT_QUOTES, 'utf-8');
-         if (isset($fbPixel) && $fbPixel !== '') {
-         echo "<script>
-        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-        document,'script','https://connect.facebook.net/en_US/fbevents.js');
-
-        fbq('init', '$fbPixel');
-        fbq('track', \"PageView\");
-        fbq('track', \"Purchase\");
-        </script>
-        <noscript><img height=\"1\" width=\"1\" style=\"display:none\"
-        src=\"https://www.facebook.com/tr?id=$fbPixel&ev=PageView&noscript=1\"
-        /></noscript>";
-         }
-    ?>
-
-    <!-- Facebook Pixel Code -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="./assets/js/fbp.js"></script>
-    <!-- End Facebook Pixel Code -->
-
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N7WXPN8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <div id="thank-you">
+        <img src="http://muahangnhanh.live/unnica/tapchikinhdoanh/icon-thankyou.png" class="img-fluid d-block mx-auto ">
+        <h1>ĐẶT HÀNG THÀNH CÔNG</h1>
+        <p>Bạn đã đặt hàng thành công. Chúng tôi sẽ sớm liên hệ lại trong thời gian sớm nhất. Đơn hàng của bạn sẽ được giao theo lịch sau:</p>
+        <p>
+            - Khách hàng ở Hà Nội và các thành phố lớn: Nhận hàng từ <span style="color: #a7cb00">1 - 2 ngày kể từ ngày đặt hàng.</span><br>
+            - Khách hàng không ở Hà Nội và các thành phố lớn: Nhận hàng từ <span style="color: #f7dd04">3 - 5 ngày kể từ ngày đặt hàng.</span>
+        </p>
+        <p class="note">Vui lòng chú ý điện thoại chúng tôi sẽ sớm liên hệ lại. Xin cảm ơn !!!</p>
+        <button class="btn btn-block btn-box" onclick="goBack()">Quay lại</button>
+    </div>
+<script>function goBack(){window.history.back()}var url=new URL(document.URL),pixel=url.searchParams.get("fb_pixel_id");function createElement(e){var t=document.createElement("noscript");return t.innerHTML=`<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=${e}&ev=PageView&noscript=1"></noscript>`,document.body.appendChild(t)}console.log(pixel.split(",")),function(e,t,n,c,o,i,r){e.fbq||(o=e.fbq=function(){o.callMethod?o.callMethod.apply(o,arguments):o.queue.push(arguments)},e._fbq||(e._fbq=o),o.push=o,o.loaded=!0,o.version="2.0",o.queue=[],(i=t.createElement(n)).async=!0,i.src="https://connect.facebook.net/en_US/fbevents.js",(r=t.getElementsByTagName(n)[0]).parentNode.insertBefore(i,r))}(window,document,"script"),pixel.split(",").forEach(e=>{fbq("init",e),createElement(e)}),fbq("track","PageView"),fbq("track","Purchase");</script>
 </body>
 </html>
