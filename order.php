@@ -42,7 +42,7 @@ if ($conn->query($sql) === TRUE) {
   $subject = 'Testing PHP Mail';
   $message = "Name".$data['name']."\nPhone".$data['phone']."\nAddress".$data['address'];
   $headers = 'From: tengsu2@company.com';
-  mail($to_email_address, $subject, $message, [$headers]);
+  mail($to_email, $subject, $message, [$headers]);
   header("Location: thankyou.php?fb_pixel_id=ss");
 die();
 } else {
