@@ -6,6 +6,7 @@
     <meta content="width=device-width,minimum-scale=1,initial-scale=1" name="viewport" id="viewport">
     <meta content="index,follow,all" name="robots">
     <meta content="vi" http-equiv="content-language">
+    <meta name="google-site-verification" content="lAk379IlDnO8uNmPIEKUX95et1sPgkakp-GiFMXCe8g" />
     <title>Thank you</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" as="style" onload="this.onload = null;this.rel = 'stylesheet';">
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;800&display=swap" as="style" onload="this.onload = null;this.rel = 'stylesheet';">

@@ -7,6 +7,7 @@
     <meta http-equiv="Expires" content="-1">
     <meta name="description" content="Viên Ngậm Tengsu Chính Hãng Công Ty">
     <meta id="viewport" name="viewport" content="width=960, user-scalable=no">
+    <meta name="google-site-verification" content="lAk379IlDnO8uNmPIEKUX95et1sPgkakp-GiFMXCe8g" />
     <link rel="stylesheet" href="./assets/style.css?v=3.6" as="style">
     <script type="text/javascript" src="./assets/jquery-3.4.1.min.js"></script>
     <script type="text/javascript" src="./assets/dr-dtime.js"></script>
