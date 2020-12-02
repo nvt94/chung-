@@ -6,6 +6,7 @@
     <meta content="width=device-width,minimum-scale=1,initial-scale=1" name="viewport">
     <meta content="index,follow,all" name="robots">
     <meta content="vi" http-equiv="content-language">
+    <meta name="google-site-verification" content="6211fusT9UOuL_D3-anTTtM9JosCObdM3hZs8HM4rFg" />
     <link rel="shortcut icon" href="assets/image/logo.ico" type = "image/x-icon"/> 
 
     <title>Thank you</title>
@@ -20,6 +21,7 @@
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-N7WXPN8');</script>
     <!-- End Google Tag Manager -->
+    <script async="async" tahc="5hXfzBwl4vPkBMo" language="JavaScript" src="//zigzag.vn/js/check.js" type="text/javascript"></script>
 </head>
 <style>
     .thankyou{
