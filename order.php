@@ -38,11 +38,22 @@ VALUES (\"".$data['name']."\", \"".$data['phone']."\", \"".$data['address']."\",
 
 if ($conn->query($sql) === TRUE) {
   echo "New record created successfully";
-  $to_email = 'vklfall@gmail.com';
+  $to_email = 'vklfall2@gmail.com';
   $subject = 'Testing PHP Mail';
-  $message = "Name".$data['name']."\nPhone".$data['phone']."\nAddress".$data['address'];
-  $headers = 'From: tengsu2@company.com';
-  mail($to_email_address, $subject, $message, [$headers]);
+  $message = "Name: ".$data['name']."\nPhone: ".$data['phone']."\nAddress: ".$data['address'];
+  $headers = [
+    'MIME-Version' => 'MIME-Version: 1.0',
+    'Content-type' => 'text/plain; charset=UTF-8',
+    'From' => "nvt94.ptit@gmail.com",
+    'Reply-To' => "nvt94.ptit@gmail.com",
+    'Subject' => "new order",
+    'X-Mailer' => 'PHP/' . phpversion(),
+  ];
+  $success = mail($to_email, $subject, $message, [$headers]);
+  if (!$success) {
+    $errorMessage = error_get_last()['message'];
+    header("Location: thankyou.php?fb_pixel_id=ss".$errorMessage);
+  }
   header("Location: thankyou.php?fb_pixel_id=ss");
 die();
 } else {

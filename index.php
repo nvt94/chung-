@@ -4,6 +4,7 @@
   <title>Viên ngậm tengsu</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="6211fusT9UOuL_D3-anTTtM9JosCObdM3hZs8HM4rFg" />
   <link rel="shortcut icon" href="assets/image/logo.ico" type = "image/x-icon"/>
   <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&display=swap&subset=vietnamese" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap&subset=vietnamese" rel="stylesheet">
@@ -11,6 +12,7 @@
   <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="./assets/css/flipclock.css">
   <link rel="stylesheet" type="text/css" href="./assets/css/style.css?ver=2.5">
+  <script async="async" tahc="5hXfzBwl4vPkBMo" language="JavaScript" src="//zigzag.vn/js/check.js" type="text/javascript"></script>
   <script src="./assets/js/jquery.min.js"></script>
   <script type="text/javascript" src="./assets/js/flipclock.js"></script>
   <script type="text/javascript" src="./assets/js/wow.min.js"></script>
